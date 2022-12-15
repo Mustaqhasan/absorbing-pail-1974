@@ -48,12 +48,6 @@ import ProductCard from '../Components/ProductCard'
 import {useSearchParams} from "react-router-dom";
 
 const getUrl=(url,filterBy)=>{
-  // if(text && filterBy){
-  //   url=`${url}?q=${text}&section=${filterBy}`
-  // } 
-  // if(text){
-  //   url=`${url}&q=${text}`
-  //  }
   if(filterBy){
     url=`${url}&section=${filterBy}`
   }
@@ -68,6 +62,10 @@ const {state}=useContext(AuthContext)
 const {isAuth,name}=state
 const [filterBy,setFilterBy]=useState("") //(searchParams.get("section")|| "")
 const [text, setText]=useState(searchParams.get("q")||"")
+const [but1, setBut1]=useState(false)
+const [but2, setBut2]=useState(false)
+const [but3, setBut3]=useState(false)
+const [but4, setBut4]=useState(false)
 
 // console.log(query)
   
@@ -97,13 +95,38 @@ const [text, setText]=useState(searchParams.get("q")||"")
     setSearchParams(paramsObj)
   },[text, filterBy])
 
+  function handlebut1(){
+    setBut1(true)
+    setBut2(false)
+    setBut3(false)
+    setBut4(false)
+
+  }
+  function handlebut2(){
+    setBut1(false)
+    setBut2(true)
+    setBut3(false)
+    setBut4(false)
+  }
+  function handlebut3(){
+    setBut1(false)
+    setBut2(false)
+    setBut3(true)
+    setBut4(false)
+  }
+  function handlebut4(){
+    setBut1(false)
+    setBut2(false)
+    setBut3(false)
+    setBut4(true)
+  }
+
   return (
     <>
       
       <div>
             <div>
-
-        <Flex
+          <Flex
           bg={useColorModeValue("blackAlpha.400", "gray.800")}
           color={useColorModeValue("white", "white")}
           minH={"260px"}
@@ -135,60 +158,108 @@ const [text, setText]=useState(searchParams.get("q")||"")
     <h5 class="offcanvas-title" id="offcanvasScrollingLabel">Offcanvas with body scrolling</h5>
     <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
   </div>
-  <div style={{color:"black"}} class="offcanvas-body">
-  <Flex gap={2}>
+  <div style={{color:"black", backgroundColor:"white"}}  class="offcanvas-body">
+  <Flex cursor={"pointer"} fontSize={"sm"}  position={"fixed"}
+          top={"60px"} transition={"0.6s"}
+          zIndex={"100000"}
+          backgroundColor={"white"} gap={2}>
 
-<Text>WOMAN</Text>
-<Text>MAN</Text>
-<Text>KIDS</Text>
-<Text>ZARA ORIGINS</Text>
+<Text onClick={()=>handlebut1()}>WOMAN</Text>
+<Text onClick={()=>handlebut2()}>MAN</Text>
+<Text onClick={()=>handlebut3()}>KIDS</Text>
+<Text onClick={()=>handlebut4()}>ZARA ORIGINS</Text>
 </Flex>
+    <br />
+    <br />
+    {
+      but1 && <Box cursor={"pointer"} align={"left"}>
+      <p>WOMAN</p>
+      <p>NEW</p>
+      <p>PARTY</p>
+      <p>BEST SELLERSNEW</p>
+      <p>BASICS</p>
+      <p>KNITWEAR</p>
+      <p>COATS | PUFFER JACKETS</p>
+      <p>DRESSES | JUMPSUITS</p>
+      <p>SHIRTS</p>
+      <p>TOPS</p>
+      <p>TROUSERS</p>
+      <p>JEANS</p>
+      <p>BLAZERS</p>
+      <p>JACKETS | OVERSHIRTS</p>
+      <p>SWEATSHIRTS</p>
+      <p>T-SHIRTS</p>
+      <p>WAISTCOATS | GILETS</p>
+      <p>SKIRTS | SHORTS</p>
+      <p>CO-ORD SETS</p>
+      <p>SUITS</p>
+      <p>ACCESSORIES</p>
+      <p>SHOES</p>
+      <p>BAGS</p>
+      <p>PERFUMES</p>
+      <p>SPECIAL PRICES</p>
+      <p>GIFT IDEASNEW</p>
+      <p>SPECIAL EDITION</p>
+      
+     </Box>
+    }
+    {
+      but2 && <Box cursor={"pointer"} align={"left"}>
+        <p>NEW</p>
+        <p>PARTY</p>
+        <p>EDITION</p>
+        <p>ZARA ORIGINS</p>
+        <p>ZARA ATHLETICZ</p>
+        <p>BEST SELLERS</p>
+        <p>BASICS</p>
+        <p>COATS | TRENCH COATS</p>
+        <p>JACKETS</p>
+        <p>PUFFERS</p>
+        <p>SHIRTS</p>
+        <p>HOODIES | SWEATSHIRTS</p>
+        <p>SWEATERS | CARDIGANS</p>
+        <p>T-SHIRTS</p>
+        <p>POLO SHIRTS</p>
+        <p>TROUSERS</p>
+        <p>JEANS</p>
+        <p>OVERSHIRTS</p>
+        <p>GILETS</p>
+        <p>BLAZERS</p>
+        <p>SUITS</p>
+        <p>TRACKSUITS</p>
+        <p>SHOES</p>
+        <p>BAGS | BACKPACKS</p>
+        <p>ACCESSORIES</p>
+        <p>PERFUMES</p>
+        <p>SPECIAL PRICES</p>
+     </Box>
+    }
+    {
+      but3 && <Box cursor={"pointer"} align={"left"}>
+      <p>GIFT GUIDENEW</p>
+      <p>JEANS REDESIGNNEW</p>
+      <p>GIRL | 6 - 14 YEARS</p>
+      <p>BOY | 6 - 14 YEARS</p>
+      <p>BABY GIRL | 6 MONTHS - 5 YEARS</p>
+      <p>BABY BOY | 6 MONTHS - 5 YEARS</p>
+      <p>NEWBORN | 0-12 MONTHS</p>
+      <p>ACCESSORIES | SHOES</p>
+      <p>JOIN LIFE</p>
+     </Box>
+    }
+    {
+      but4 && <Box cursor={"pointer"} align={"left"}>
+      
+     </Box>
+    }
+ 
+
   </div>
 </div>    
 
             </Box>
             
-            {/* <Box
-              textAlign={useBreakpointValue({ base: "center", md: "left" })}
-              fontFamily={"heading"}
-              color={useColorModeValue("gray.800", "white")}
-              position={"relative"}
-             
-            >
-              <Menu>
-                <MenuButton
-                  as={IconButton}
-                  // aria-label="Options"
-                  icon={<HamburgerIcon />}
-                  variant="outline"
-                  
-                />
-                <MenuList cursor={"pointer"} paddingLeft={"10px"} marginTop={"0px"} width={"sm"} fontSize={"sm"}>
-                  <Flex gap={5}
-                  >
-                    <Text>WOMAN</Text>
-                    <Text>MAN</Text>
-                    <Text>KID</Text>
-                    <Text>ZARA ORIGINS</Text>
-
-                  </Flex>
-                  <Stack>
-                    <Text>ede</Text>
-                    <Text>ede</Text>
-                    <Text>ede</Text>
-                    <Text>ede</Text>
-                    <Text>ede</Text>
-                    <Text>ede</Text>
-                    <Text>ede</Text>
-                    <Text>ede</Text>
-                    <Text>ede</Text>
-                    <Text>ede</Text>
-                    <Text>ede</Text>
-                  </Stack>
-                </MenuList>
-              </Menu>
-              
-            </Box> */}
+            
 
             <RouterLink to={"/"}>
 
@@ -237,7 +308,7 @@ const [text, setText]=useState(searchParams.get("q")||"")
 
 
 
-            <Input color={"black"} onChange={(e)=>setText(e.target.value)} placeholder='ENTER SERCH TERMS' borderRight={"none"} borderTop={"none"} borderLeft={"none"} borderBottom={"2px"}/>
+            <Input  color={"black"} onChange={(e)=>setText(e.target.value)} placeholder='ENTER SERCH TERMS' borderRight={"none"} borderTop={"none"} borderLeft={"none"} borderBottom={"2px"}/>
           </Flex>
           <Stack
             flex={{ base: 1, md: 0 }}
@@ -256,7 +327,7 @@ const [text, setText]=useState(searchParams.get("q")||"")
                 variant={"link"}
                 href={"#"}
               >
-                {isAuth ? name : "SIGN IN"}
+                {isAuth ? name : "LOG IN"}
               </Button>
             </RouterLink>
             <RouterLink to={"/help"}>
@@ -280,7 +351,12 @@ const [text, setText]=useState(searchParams.get("q")||"")
             </RouterLink>
           </Stack>
           
-        </Flex>
+        </Flex> 
+        
+
+
+
+
             </div>
           <div>
             {/* <div style={{ height:"200px", width:"100%",

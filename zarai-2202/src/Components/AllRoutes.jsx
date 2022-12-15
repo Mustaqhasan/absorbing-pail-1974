@@ -7,6 +7,7 @@ import Login from '../Pages/Login'
 import Search from '../Pages/Search'
 import PersonalDetails from './PersonalDetails'
 import PrivateRoute from './PrivateRoute'
+import ProductDetails from './ProductDetails'
 
 const AllRoutes = () => {
   return (
@@ -19,7 +20,9 @@ const AllRoutes = () => {
         <Route path='/login' element={<Login/>}/>
         <Route path='/help' element={<Help/>}/>
         <Route path='/cart' element={<Cart/>}/>
+        {/* <Route path='/cart/:id' element={<Cart/>}/> */}
         <Route path='/signup' element={<PersonalDetails/>}/>
+        <Route path='/products/:id' element={<ProductDetails/>}/>
       </Routes>
     </div>
   )

@@ -6,15 +6,37 @@ import {
     Text,
     Stack,
     Image,
+    Button,
   } from '@chakra-ui/react';
-  import {Link as RouterLink} from "react-router-dom"
+import { useContext, useEffect, useState } from 'react';
+import { CartContext } from '../Context/CartContextProvider';
   
-  export default function ProductCard({
-    id,image,title,price,category
+  export default function CartsProductCard({
+    id,image,title,price,category,myprice
   }) {
+
+    
+    const [newprice, setNewPrice]=useState(myprice)
+    const [qua, setQua]=useState(1)
+    function handleQuantity(val) {
+      setQua(qua+val)
+      
+    }
+
+    // function handleInc(){
+    //     setQua(qua-1)
+        
+    // }
+    // function handleDec(){
+    //     setQua(qua+1)
+    // }
+
+    useEffect(()=>{
+        setNewPrice((qua)*myprice)
+    },[qua])
     return (
       <Center py={12}>
-        <RouterLink to={`/products/${id}`}>
+        {/* <RouterLink to={`/products/${id}`}> */}
 
         <Box
         
@@ -61,16 +83,25 @@ import {
             <Text color={'gray.900'} fontSize={'sm'} textTransform={'uppercase'}>
               {title}
             </Text>
-            <Heading fontSize={'2xl'} fontFamily={'body'} fontWeight={500}>
-              {category}
-            </Heading>
+            
             <Stack direction={'row'} align={'center'}>
               <Text fontWeight={800} fontSize={'xl'}>
-               {price}
+               {newprice}
               </Text>
               <Text textDecoration={'line-through'} color={'gray.600'}>
-                {Math.floor(Math.random()*1000)}
+                {myprice*2}
               </Text>
+            </Stack>
+            <Stack direction={'row'} align={'center'}>
+              <Button disabled={qua===1} onClick={()=>handleQuantity(-1)} fontWeight={800} fontSize={'xl'}>
+               -
+              </Button>
+              <Button  fontWeight={800} fontSize={'xl'}>
+               {qua}
+              </Button>
+              <Button onClick={()=>handleQuantity(1)} textDecoration={'line-through'} color={'gray.600'}>
+                +
+              </Button>
             </Stack>
             {/* <Text color={'gray.600'}>
                 Rating:{rating}
@@ -80,7 +111,7 @@ import {
             </Text> */}
           </Stack>
         </Box>
-              </RouterLink>
+              {/* </RouterLink> */}
       </Center>
     );  
   }
