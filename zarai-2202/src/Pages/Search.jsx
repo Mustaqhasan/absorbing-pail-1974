@@ -432,6 +432,7 @@ const [but4, setBut4]=useState(false)
                   image={item.img}
                   title={item.title}
                   price={item.price}
+                  myprice={item.myprice}
                   />
               </GridItem>
               )

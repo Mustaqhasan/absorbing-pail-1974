@@ -10,7 +10,7 @@ import {
   import {Link as RouterLink} from "react-router-dom"
   
   export default function ProductCard({
-    id,image,title,price,category
+    id,image,title,price,category,myprice
   }) {
     return (
       <Center py={12}>
@@ -69,7 +69,7 @@ import {
                {price}
               </Text>
               <Text textDecoration={'line-through'} color={'gray.600'}>
-                {Math.floor(Math.random()*1000)}
+                {myprice}
               </Text>
             </Stack>
             {/* <Text color={'gray.600'}>

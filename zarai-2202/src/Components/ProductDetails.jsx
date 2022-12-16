@@ -27,6 +27,9 @@ import { useParams } from "react-router-dom";
 import { Link as RouetLink } from "react-router-dom";
 
 import { FaCartPlus } from "react-icons/fa";
+import { RiShoppingCartLine } from "react-icons/ri";
+import { BsCart } from "react-icons/bs";
+// import { FiShoppingCart } from "@react-icons/all-files/fa/FaBeer";
 import { Link as RouterLink } from "react-router-dom";
 import { useContext } from "react";
 import { AuthContext } from "../Context/AuthContextProvider";
@@ -37,20 +40,7 @@ import ProductCard from "../Components/ProductCard";
 import { CartContext } from "../Context/CartContextProvider";
 import MyImage from "./MyImage";
 
-const imgArr = [
-  {
-    url: "https://static.zara.net/photos///2023/V/0/1/p/2055/298/401/2/w/37/2055298401_1_1_1.jpg?ts=1670577295475",
-  },
-  {
-    url: "https://static.zara.net/photos///2023/V/0/1/p/2055/298/401/2/w/37/2055298401_2_1_1.jpg?ts=1670577293431",
-  },
-  {
-    url: "https://static.zara.net/photos///2023/V/0/1/p/2055/298/401/2/w/37/2055298401_2_2_1.jpg?ts=1670577293428",
-  },
-  {
-    url: "https://static.zara.net/photos///2023/V/0/1/p/2055/298/401/2/w/37/2055298401_2_3_1.jpg?ts=1670577293349",
-  },
-];
+
 export default function ProductDetails() {
   const { addToCart } = useContext(CartContext);
   const [product, setProduct] = useState({});
@@ -62,6 +52,7 @@ export default function ProductDetails() {
   const [but2, setBut2] = useState(false);
   const [but3, setBut3] = useState(false);
   const [but4, setBut4] = useState(false);
+  const {total_item}=useContext(CartContext)
   // const [mainImage, setMainImage] = useState(imgs[0]);
   useEffect(() => {
     axios.get(`http://localhost:8080/products/${id}`).then(({ data }) => {
@@ -70,7 +61,7 @@ export default function ProductDetails() {
     });
   }, [id]);
 
-  const { img, title, category, price } = product;
+  const { img, title, category, price,myprice,amount } = product;
   function handlebut1() {
     setBut1(true);
     setBut2(false);
@@ -95,12 +86,27 @@ export default function ProductDetails() {
     setBut3(false);
     setBut4(true);
   }
+  const imgs = [
+    {url: "https://static.zara.net/photos///2022/I/0/1/p/7521/265/303/2/w/37/7521265303_1_1_1.jpg?ts=1667396554846",
+    },
+    {
+      url: "https://static.zara.net/photos///2022/I/0/1/p/7521/265/303/2/w/37/7521265303_2_1_1.jpg?ts=1667396579143",
+    },
+    {
+      url: "https://static.zara.net/photos///2022/I/0/1/p/7521/265/303/2/w/37/7521265303_2_2_1.jpg?ts=1667396578318",
+    },
+    {
+      url: "https://static.zara.net/photos///2022/I/0/1/p/7521/265/303/2/w/37/7521265303_2_3_1.jpg?ts=1667396576936",
+    },
+  ];
+  const [mainPage, setMainPage]=useState(imgs[0])
   return (
     <>
       <Flex
         bg={useColorModeValue("blackAlpha.400", "gray.800")}
         color={useColorModeValue("white", "white")}
         minH={"150px"}
+        // minH={"auto"}
         py={{ base: 2 }}
         px={{ base: 4 }}
         // borderBottom={1}
@@ -304,10 +310,22 @@ export default function ProductDetails() {
           </RouterLink>
 
           {/* <RiLuggageCartFill/> */}
-          <RouterLink position={"relative"} to={"/cart"}>
-            <Stack color={useColorModeValue("gray.800", "white")} width={"10"}>
-              <FaCartPlus size={"md"} />
-            </Stack>
+          <RouterLink  to={"/cart"}>
+            
+            <Flex  color={useColorModeValue("gray.800", "white")} width={"10"}>
+              {/* <RiShoppingCartLine width={"40px"} height={"30px"}/> */}
+                  
+
+                 
+                 
+
+              {/* <FaCartPlus size={"30px"} /> */}
+              {/* <BsCart  top={"20px"} size={"30px"} /> */}
+                  <BsCart size={"40px"}>
+                  </BsCart>
+              <Text marginTop={"1"} marginLeft={"-7"} color={"black"} fontSize={"lg"} fontWeight={"bold"} >{total_item}</Text>
+                    {/* <span backgroundColor={"green"}>{total_item}</span> */}
+            </Flex>
           </RouterLink>
         </Stack>
       </Flex>
@@ -318,7 +336,7 @@ export default function ProductDetails() {
           spacing={{ base: 8, md: 10 }}
           py={{ base: 18, md: 24 }}
         >
-          <Flex gap={"50px"}>
+          <Flex gap={"200px"}>
             <Stack
               marginTop={"200px"}
               marginLeft={"100px"}
@@ -352,34 +370,10 @@ export default function ProductDetails() {
             </Stack>
             {/* <MyImage /> */}
             <Stack>
-            <Image
-              rounded={"md"}
-              alt={"product image"}
-              src={img}
-              fit={"cover"}
-              align={"center"}
-              w={"100%"}
-              h={{ base: "100%", sm: "400px", lg: "500px" }}
-              marginLeft={"300px"}
-              />
-              </Stack>
-            {/* <div>
-              <div>
-                {imgs.map((item) => 
-                   (
-                      <img
-                        // key={item.url}
-                        onClick={() => setMainImage(item)}
-                        src={item.url}
-                        alt="pic-name"
-                      />
-                  )
-                )}
-              </div>
-              <div>
-                <img src={mainImage.url} alt="main-pic" />
-              </div>
-            </div> */}
+            
+
+            </Stack>
+            
             <Stack
               divider={
                 <StackDivider
@@ -471,7 +465,7 @@ export default function ProductDetails() {
               </Flex>
               <RouetLink to={"/cart"}>
                 <Button
-                  onClick={() => addToCart(product)}
+                  onClick={() => addToCart(id,myprice,amount,product)}
                   marginBottom={"-40px"}
                   rounded={"none"}
                   w={"full"}
@@ -497,6 +491,25 @@ export default function ProductDetails() {
           </Flex>
         </SimpleGrid>
       </Container>
+              
+
+      <div style={{display:"flex",marginLeft:"90vh",marginTop:"-90vh"}} className='App'>
+     {/* <Navbar/>
+     <AllRoutes/> */}
+        <div>
+          {imgs.map((img)=>{
+            return (
+              <figure>
+                <img width={"80px"} src={img.url} alt="" onClick={()=>setMainPage(img)} />
+              </figure>
+            )
+          })}
+        </div>
+        <div>
+          <img width={"300px"} src={img} alt="" />
+        </div>
+    </div>
+  
     </>
   );
 }

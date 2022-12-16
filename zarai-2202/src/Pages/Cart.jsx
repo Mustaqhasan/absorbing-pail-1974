@@ -48,7 +48,8 @@ const Cart = () => {
   
   const { isAuth, name } = state;
   // const {total}=useContext(CartContext)
-  const {cart}=useContext(CartContext)
+  const {cart,total_price,total_item}=useContext(CartContext)
+  
   
 
 
@@ -271,7 +272,7 @@ const Cart = () => {
       <div style={{position:"fixed",left:"200px", marginTop:"-140px",transition:"0.6", zIndex:"100000", background:"white",width:"100%"}}>
          
             <Flex fontWeight={600} gap={10}>
-              <Text>CART:{" "}{cart.length}</Text>
+              <Text>CART:{" "}{total_item}</Text>
               <Text>FAVORITES</Text>
             </Flex>
             <Stack marginBottom={"30px"}  padding={2} width={"520px"} background={"gray.300"} fontSize={"sm"} textAlign={"left"}>
@@ -295,6 +296,7 @@ const Cart = () => {
                 title={item.title}
                 price={item.price}
                 myprice={item.myprice}
+                amount={item.amount}
                 />
             </GridItem>
 
@@ -311,7 +313,7 @@ const Cart = () => {
             {/* <Box></Box> */}
             <Flex gap={5} justify={"flex-end"}>
             <Box>
-                  <Text>Total:</Text>
+                  <Text>Total:{total_price}</Text>
                 </Box>
 
                 <Stack width={"300px"} color={"white"} ><Button background={"black"}>CONTINUE</Button></Stack>

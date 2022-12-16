@@ -614,7 +614,8 @@
         "section": "woman",
         "category": "dress",
         "id": 1,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/darted-short-dress-p08980313.html",
@@ -624,7 +625,8 @@
         "section": "woman",
         "category": "dress",
         "id": 2,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/velvet-camisole-dress-p09246864.html",
@@ -634,7 +636,8 @@
         "section": "woman",
         "category": "dress",
         "id": 3,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/short-satin-dress-p07901360.html",
@@ -644,7 +647,8 @@
         "section": "woman",
         "category": "dress",
         "id": 4,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/sequin-camisole-dress-p08741279.html",
@@ -654,7 +658,8 @@
         "section": "woman",
         "category": "dress",
         "id": 5,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/faux-leather-corsetry-inspired-dress-p09207322.html",
@@ -664,7 +669,8 @@
         "section": "woman",
         "category": "dress",
         "id": 6,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/long-printed-dress-p07521265.html",
@@ -674,7 +680,8 @@
         "section": "woman",
         "category": "dress",
         "id": 7,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/sequin-blazer-dress-p00387195.html",
@@ -684,7 +691,8 @@
         "section": "woman",
         "category": "dress",
         "id": 8,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/velvet-mini-dress-p00387194.html",
@@ -694,7 +702,8 @@
         "section": "woman",
         "category": "dress",
         "id": 9,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/asymmetric-neckline-dress-p09015332.html",
@@ -704,7 +713,8 @@
         "section": "woman",
         "category": "dress",
         "id": 10,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/limited-edition-sequinned-dress-p04786314.html",
@@ -714,7 +724,8 @@
         "section": "woman",
         "category": "dress",
         "id": 11,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/short-printed-dress-p01821227.html",
@@ -724,7 +735,8 @@
         "section": "woman",
         "category": "dress",
         "id": 12,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/floral-mini-dress-p01971192.html",
@@ -734,7 +746,8 @@
         "section": "woman",
         "category": "dress",
         "id": 13,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/lace-midi-dress-p02157022.html",
@@ -744,7 +757,8 @@
         "section": "woman",
         "category": "dress",
         "id": 14,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/mini-dress-with-beaded-collar-p09878206.html",
@@ -754,7 +768,8 @@
         "section": "woman",
         "category": "dress",
         "id": 15,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/short-tulle-corsetry-inspired-dress-p08662742.html",
@@ -764,7 +779,8 @@
         "section": "woman",
         "category": "dress",
         "id": 16,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/swiss-dot-midi-dress-p00387205.html",
@@ -774,7 +790,8 @@
         "section": "woman",
         "category": "dress",
         "id": 17,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/floral-print-dress-p08878296.html",
@@ -784,7 +801,8 @@
         "section": "woman",
         "category": "dress",
         "id": 18,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/short-satin-dress-p09492650.html",
@@ -794,7 +812,8 @@
         "section": "woman",
         "category": "dress",
         "id": 19,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/sequined-dress-with-straps-p09373567.html",
@@ -804,7 +823,8 @@
         "section": "woman",
         "category": "dress",
         "id": 20,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/blazer-dress-with-side-buckles-p08585688.html",
@@ -814,7 +834,8 @@
         "section": "woman",
         "category": "dress",
         "id": 21,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/sequinned-velvet-dress-p09386874.html",
@@ -824,7 +845,8 @@
         "section": "woman",
         "category": "dress",
         "id": 22,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/velvet-printed-dress-p09277656.html",
@@ -834,7 +856,8 @@
         "section": "woman",
         "category": "dress",
         "id": 23,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/midi-dress-p03067206.html",
@@ -844,7 +867,8 @@
         "section": "woman",
         "category": "dress",
         "id": 24,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/tie-dye-midi-dress-p09479251.html",
@@ -854,7 +878,8 @@
         "section": "woman",
         "category": "dress",
         "id": 25,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/short-printed-dress-p03198262.html",
@@ -864,7 +889,8 @@
         "section": "woman",
         "category": "dress",
         "id": 26,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/blazer-dress-p08533707.html",
@@ -874,7 +900,8 @@
         "section": "woman",
         "category": "dress",
         "id": 27,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/pleated-midi-dress-p09878157.html",
@@ -884,7 +911,8 @@
         "section": "woman",
         "category": "dress",
         "id": 28,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/mini-dress-with-shoulder-buttons-p03564224.html",
@@ -894,7 +922,8 @@
         "section": "woman",
         "category": "dress",
         "id": 29,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/pleated-midi-dress-p08741252.html",
@@ -904,7 +933,8 @@
         "section": "woman",
         "category": "dress",
         "id": 30,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/rhinestone-velvet-dress-p06428700.html",
@@ -914,7 +944,8 @@
         "section": "woman",
         "category": "dress",
         "id": 31,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/striped-knit-dress-p02582511.html",
@@ -924,7 +955,8 @@
         "section": "woman",
         "category": "dress",
         "id": 32,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/textured-pinafore-dress-p06050503.html",
@@ -934,7 +966,8 @@
         "section": "kid",
         "category": "dress",
         "id": 33,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/shirt-dress-with-belt-p01639735.html",
@@ -944,7 +977,8 @@
         "section": "kid",
         "category": "dress",
         "id": 34,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/dress-with-sequins-and-bow-p09007785.html",
@@ -954,7 +988,8 @@
         "section": "kid",
         "category": "dress",
         "id": 35,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/knit-dress-p05624501.html",
@@ -964,7 +999,8 @@
         "section": "kid",
         "category": "dress",
         "id": 36,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/dress-with-studded-belt-p06594210.html",
@@ -974,7 +1010,8 @@
         "section": "kid",
         "category": "dress",
         "id": 37,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/matching-balloon-dress-p06201600.html",
@@ -984,7 +1021,8 @@
         "section": "kid",
         "category": "dress",
         "id": 38,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/faux-leather-pinafore-dress-p05070501.html",
@@ -994,7 +1032,8 @@
         "section": "kid",
         "category": "dress",
         "id": 39,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/ponte-di-roma-knit-dress-p01608600.html",
@@ -1004,7 +1043,8 @@
         "section": "kid",
         "category": "dress",
         "id": 40,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/velvet-sequinned-dress-p02712717.html",
@@ -1014,7 +1054,8 @@
         "section": "kid",
         "category": "dress",
         "id": 41,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/sequinned-dress-p02712716.html",
@@ -1024,7 +1065,8 @@
         "section": "kid",
         "category": "dress",
         "id": 42,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p05987702.html",
@@ -1034,7 +1076,8 @@
         "section": "kid",
         "category": "dress",
         "id": 43,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/gathered-tulle-dress-p09000753.html",
@@ -1044,7 +1087,8 @@
         "section": "kid",
         "category": "dress",
         "id": 44,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/denim-dress-with-pockets-p01213552.html",
@@ -1054,7 +1098,8 @@
         "section": "kid",
         "category": "dress",
         "id": 45,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/feather-dress-p06325221.html",
@@ -1064,7 +1109,8 @@
         "section": "kid",
         "category": "dress",
         "id": 46,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/colourful-sequinned-dress-p08741701.html",
@@ -1074,7 +1120,8 @@
         "section": "kid",
         "category": "dress",
         "id": 47,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/dress-with-tulle-frills-p09000763.html",
@@ -1084,7 +1131,8 @@
         "section": "kid",
         "category": "dress",
         "id": 48,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cut-out-shimmery-dress-p01608713.html",
@@ -1094,7 +1142,8 @@
         "section": "kid",
         "category": "dress",
         "id": 49,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/asymmetric-dress-with-rhinestones-p02324702.html",
@@ -1104,7 +1153,8 @@
         "section": "kid",
         "category": "dress",
         "id": 50,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/checked-jumpsuit-dress-p01165779.html",
@@ -1114,7 +1164,8 @@
         "section": "kid",
         "category": "dress",
         "id": 51,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/textured-midi-dress-with-embroidery-and-panels-p04493708.html",
@@ -1124,7 +1175,8 @@
         "section": "kid",
         "category": "dress",
         "id": 52,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/snoopy-peanuts--embossed-plush-dress-p05431602.html",
@@ -1134,7 +1186,8 @@
         "section": "kid",
         "category": "dress",
         "id": 53,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p02674718.html",
@@ -1144,7 +1197,8 @@
         "section": "kid",
         "category": "dress",
         "id": 54,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/velvet-dress-p09000754.html",
@@ -1154,7 +1208,8 @@
         "section": "kid",
         "category": "dress",
         "id": 55,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/dress-with-seams-and-shirring-p01019391.html",
@@ -1164,7 +1219,8 @@
         "section": "kid",
         "category": "dress",
         "id": 56,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/dress-with-rhinestone-appliqu%C3%A9s-p07521727.html",
@@ -1174,7 +1230,8 @@
         "section": "kid",
         "category": "dress",
         "id": 57,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/ribbed-knit-dress-with-rhinestones-p01473603.html",
@@ -1184,7 +1241,8 @@
         "section": "kid",
         "category": "dress",
         "id": 58,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/textured-pinafore-dress-with-fringing-p06596276.html",
@@ -1194,7 +1252,8 @@
         "section": "kid",
         "category": "dress",
         "id": 59,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p05039728.html",
@@ -1204,7 +1263,8 @@
         "section": "kid",
         "category": "dress",
         "id": 60,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-fitted-coat-p08496298.html",
@@ -1214,7 +1274,8 @@
         "section": "woman",
         "category": "coat",
         "id": 61,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-fitted-coat-p08496298.html",
@@ -1224,7 +1285,8 @@
         "section": "woman",
         "category": "coat",
         "id": 62,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/fitted-wool-coat---limited-edition-p09183744.html",
@@ -1234,7 +1296,8 @@
         "section": "woman",
         "category": "coat",
         "id": 63,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-double-breasted-coat-p02103289.html",
@@ -1244,7 +1307,8 @@
         "section": "woman",
         "category": "coat",
         "id": 64,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-with-faux-fur-collar-p08571744.html",
@@ -1254,7 +1318,8 @@
         "section": "woman",
         "category": "coat",
         "id": 65,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-high-neck-coat-p09325289.html",
@@ -1264,7 +1329,8 @@
         "section": "woman",
         "category": "coat",
         "id": 66,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-with-belt-p02040756.html",
@@ -1274,7 +1340,8 @@
         "section": "woman",
         "category": "coat",
         "id": 67,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-fitted-coat-p02055289.html",
@@ -1284,7 +1351,8 @@
         "section": "woman",
         "category": "coat",
         "id": 68,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/long-premium-wool-blend-coat-p08552744.html",
@@ -1294,7 +1362,8 @@
         "section": "woman",
         "category": "coat",
         "id": 69,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cloth-coat-p05070420.html",
@@ -1304,7 +1373,8 @@
         "section": "woman",
         "category": "coat",
         "id": 70,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cloth-coat-p05070420.html",
@@ -1314,7 +1384,8 @@
         "section": "woman",
         "category": "coat",
         "id": 71,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cloth-coat-p05070420.html",
@@ -1324,7 +1395,8 @@
         "section": "woman",
         "category": "coat",
         "id": 72,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/faux-leather-trench-coat-p04432816.html",
@@ -1334,7 +1406,8 @@
         "section": "woman",
         "category": "coat",
         "id": 73,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-breasted-wool-blend-coat-with-belt-p08825289.html",
@@ -1344,7 +1417,8 @@
         "section": "woman",
         "category": "coat",
         "id": 74,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/soft-fitted-coat-p03046302.html",
@@ -1354,7 +1428,8 @@
         "section": "woman",
         "category": "coat",
         "id": 75,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/hooded-quilted-coat-p08073026.html",
@@ -1364,7 +1439,8 @@
         "section": "woman",
         "category": "coat",
         "id": 76,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p08073230.html",
@@ -1374,7 +1450,8 @@
         "section": "woman",
         "category": "coat",
         "id": 77,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/long-premium-wool-blend-coat-p08544751.html",
@@ -1384,7 +1461,8 @@
         "section": "woman",
         "category": "coat",
         "id": 78,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cloth-coat-p05070420.html",
@@ -1394,7 +1472,8 @@
         "section": "woman",
         "category": "coat",
         "id": 79,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-with-belt-p08464724.html",
@@ -1404,7 +1483,8 @@
         "section": "woman",
         "category": "coat",
         "id": 80,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-fitted-coat-p08496298.html",
@@ -1414,7 +1494,8 @@
         "section": "woman",
         "category": "coat",
         "id": 81,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/soft-coat-with-hood-and-belt-p03046304.html",
@@ -1424,7 +1505,8 @@
         "section": "woman",
         "category": "coat",
         "id": 82,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-fitted-coat-p02055289.html",
@@ -1434,7 +1516,8 @@
         "section": "woman",
         "category": "coat",
         "id": 83,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/quilted-coat-with-hood-p03427711.html",
@@ -1444,7 +1527,8 @@
         "section": "woman",
         "category": "coat",
         "id": 84,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat---limited-edition-p09283817.html",
@@ -1454,7 +1538,8 @@
         "section": "woman",
         "category": "coat",
         "id": 85,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-fitted-coat-p08496298.html",
@@ -1464,7 +1549,8 @@
         "section": "woman",
         "category": "coat",
         "id": 86,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/long-premium-wool-blend-coat-p08551744.html",
@@ -1474,7 +1560,8 @@
         "section": "woman",
         "category": "coat",
         "id": 87,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-with-faux-fur-collar-p08827298.html",
@@ -1484,7 +1571,8 @@
         "section": "woman",
         "category": "coat",
         "id": 88,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-breasted-wool-blend-coat-with-belt-p08825289.html",
@@ -1494,7 +1582,8 @@
         "section": "woman",
         "category": "coat",
         "id": 89,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/faux-suede-coat-p02712450.html",
@@ -1504,7 +1593,8 @@
         "section": "woman",
         "category": "coat",
         "id": 90,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cloth-coat-p05070420.html",
@@ -1514,7 +1604,8 @@
         "section": "woman",
         "category": "coat",
         "id": 91,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cloth-coat-p05070420.html",
@@ -1524,7 +1615,8 @@
         "section": "woman",
         "category": "coat",
         "id": 92,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/hooded-quilted-coat-p03427848.html",
@@ -1534,7 +1626,8 @@
         "section": "woman",
         "category": "coat",
         "id": 93,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-coat-with-belt-p08419744.html",
@@ -1544,7 +1637,8 @@
         "section": "woman",
         "category": "coat",
         "id": 94,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/soft-oversize-coat-p03046040.html",
@@ -1554,7 +1648,8 @@
         "section": "woman",
         "category": "coat",
         "id": 95,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-double-breasted-coat-p08837289.html",
@@ -1564,7 +1659,8 @@
         "section": "woman",
         "category": "coat",
         "id": 96,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cropped-wool-blend-coat-p08073267.html",
@@ -1574,7 +1670,8 @@
         "section": "woman",
         "category": "coat",
         "id": 97,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/oversize-coat-p03046301.html",
@@ -1584,7 +1681,8 @@
         "section": "woman",
         "category": "coat",
         "id": 98,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/studded-wool-blend-coat---limited-edition-p08904744.html",
@@ -1594,7 +1692,8 @@
         "section": "woman",
         "category": "coat",
         "id": 99,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/soft-oversize-coat-p03046077.html",
@@ -1604,7 +1703,8 @@
         "section": "woman",
         "category": "coat",
         "id": 100,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cloth-coat-p05070420.html",
@@ -1614,7 +1714,8 @@
         "section": "woman",
         "category": "coat",
         "id": 101,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/coat-with-tabs-on-the-sleeves-p08631177.html",
@@ -1624,7 +1725,8 @@
         "section": "woman",
         "category": "coat",
         "id": 102,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-double-breasted-coat-p08491223.html",
@@ -1634,7 +1736,8 @@
         "section": "woman",
         "category": "coat",
         "id": 103,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-double-breasted-coat-p08491223.html",
@@ -1644,7 +1747,8 @@
         "section": "woman",
         "category": "coat",
         "id": 104,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/short-faux-leather-trench-coat-p02116872.html",
@@ -1654,7 +1758,8 @@
         "section": "woman",
         "category": "coat",
         "id": 105,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-double-breasted-coat-p02057298.html",
@@ -1664,7 +1769,8 @@
         "section": "woman",
         "category": "coat",
         "id": 106,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-belted-coat-p08491221.html",
@@ -1674,7 +1780,8 @@
         "section": "woman",
         "category": "coat",
         "id": 107,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-double-breasted-coat-p04070221.html",
@@ -1684,7 +1791,8 @@
         "section": "woman",
         "category": "coat",
         "id": 108,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/quilted-coat-with-hood-p03427808.html",
@@ -1694,7 +1802,8 @@
         "section": "woman",
         "category": "coat",
         "id": 109,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/soft-coat-with-hood-and-belt-p03046304.html",
@@ -1704,7 +1813,8 @@
         "section": "woman",
         "category": "coat",
         "id": 110,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-double-breasted-coat-p08456298.html",
@@ -1714,7 +1824,8 @@
         "section": "woman",
         "category": "coat",
         "id": 111,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/soft-coat-with-belt-p08073268.html",
@@ -1724,7 +1835,8 @@
         "section": "woman",
         "category": "coat",
         "id": 112,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/oversize-coat-p03046301.html",
@@ -1734,7 +1846,8 @@
         "section": "woman",
         "category": "coat",
         "id": 113,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/long-faux-fur-coat-p04360244.html",
@@ -1744,7 +1857,8 @@
         "section": "woman",
         "category": "coat",
         "id": 114,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/synthetic-wool-coat-p05070752.html",
@@ -1754,7 +1868,8 @@
         "section": "kid",
         "category": "coat",
         "id": 115,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-nautical-coat-p06182050.html",
@@ -1764,7 +1879,8 @@
         "section": "kid",
         "category": "coat",
         "id": 116,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/puffer-coat-with-rubberised-detail-p03121705.html",
@@ -1774,7 +1890,8 @@
         "section": "kid",
         "category": "coat",
         "id": 117,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/basic-synthetic-wool-coat-p01068708.html",
@@ -1784,7 +1901,8 @@
         "section": "kid",
         "category": "coat",
         "id": 118,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p06752441.html",
@@ -1794,7 +1912,8 @@
         "section": "kid",
         "category": "coat",
         "id": 119,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/short-textured-coat-p06543096.html",
@@ -1804,7 +1923,8 @@
         "section": "kid",
         "category": "coat",
         "id": 120,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p05854725.html",
@@ -1814,7 +1934,8 @@
         "section": "kid",
         "category": "coat",
         "id": 121,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/check-cloth-coat-p08288757.html",
@@ -1824,7 +1945,8 @@
         "section": "kid",
         "category": "coat",
         "id": 122,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p05854725.html",
@@ -1834,7 +1956,8 @@
         "section": "kid",
         "category": "coat",
         "id": 123,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-faced-contrast-faux-shearling-coat-p00562724.html",
@@ -1844,7 +1967,8 @@
         "section": "kid",
         "category": "coat",
         "id": 124,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-faced-faux-shearling-coat-p00562723.html",
@@ -1854,7 +1978,8 @@
         "section": "kid",
         "category": "coat",
         "id": 125,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/check-coat-p06669292.html",
@@ -1864,7 +1989,8 @@
         "section": "kid",
         "category": "coat",
         "id": 126,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/long-textured-coat-p06401235.html",
@@ -1874,7 +2000,8 @@
         "section": "kid",
         "category": "coat",
         "id": 127,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/basic-synthetic-wool-coat-p01068708.html",
@@ -1884,7 +2011,8 @@
         "section": "kid",
         "category": "coat",
         "id": 128,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/check-coat-p06632292.html",
@@ -1894,7 +2022,8 @@
         "section": "kid",
         "category": "coat",
         "id": 129,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/synthetic-wool-coat-p05070752.html",
@@ -1904,7 +2033,8 @@
         "section": "kid",
         "category": "coat",
         "id": 130,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/synthetic-wool-coat-with-contrast-faux-shearling-p05854576.html",
@@ -1914,7 +2044,8 @@
         "section": "kid",
         "category": "coat",
         "id": 131,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-faced-faux-shearling-coat-p03548750.html",
@@ -1924,7 +2055,8 @@
         "section": "kid",
         "category": "coat",
         "id": 132,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/puffer-coat-with-rubberised-detail-p03121705.html",
@@ -1934,7 +2066,8 @@
         "section": "kid",
         "category": "coat",
         "id": 133,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/water-repellent-puffer-coat-p05992554.html",
@@ -1944,7 +2077,8 @@
         "section": "kid",
         "category": "coat",
         "id": 134,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/long-extra-light-puffer-coat-p05992755.html",
@@ -1954,7 +2088,8 @@
         "section": "kid",
         "category": "coat",
         "id": 135,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p05854716.html",
@@ -1964,7 +2099,8 @@
         "section": "kid",
         "category": "coat",
         "id": 136,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/puffer-coat-with-label-p03121756.html",
@@ -1974,7 +2110,8 @@
         "section": "kid",
         "category": "coat",
         "id": 137,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/lightweight-thermo-sealed-puffer-coat-with-ripstop-details-p01068759.html",
@@ -1984,7 +2121,8 @@
         "section": "kid",
         "category": "coat",
         "id": 138,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/puffer-coat-p05644765.html",
@@ -1994,7 +2132,8 @@
         "section": "kid",
         "category": "coat",
         "id": 139,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/short-puffer-coat-p05644707.html",
@@ -2004,7 +2143,8 @@
         "section": "kid",
         "category": "coat",
         "id": 140,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/puffer-coat-with-rubberised-detail-p03121705.html",
@@ -2014,7 +2154,8 @@
         "section": "kid",
         "category": "coat",
         "id": 141,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/quilted-coat-with-stitching-p00562709.html",
@@ -2024,7 +2165,8 @@
         "section": "kid",
         "category": "coat",
         "id": 142,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/extra-light-long-puffer-coat-p01068751.html",
@@ -2034,7 +2176,8 @@
         "section": "kid",
         "category": "coat",
         "id": 143,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/quilted-coat-with-stitching-p05854738.html",
@@ -2044,7 +2187,8 @@
         "section": "kid",
         "category": "coat",
         "id": 144,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/quilted-corduroy-coat-with-piping-details-p05854717.html",
@@ -2054,7 +2198,8 @@
         "section": "kid",
         "category": "coat",
         "id": 145,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/quilted-long-coat-with-stitching-p05854734.html",
@@ -2064,7 +2209,8 @@
         "section": "kid",
         "category": "coat",
         "id": 146,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/long-reversible-faux-shearling-puffer-coat-p00562705.html",
@@ -2074,7 +2220,8 @@
         "section": "kid",
         "category": "coat",
         "id": 147,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/maxi-puffer-coat-p00562700.html",
@@ -2084,7 +2231,8 @@
         "section": "kid",
         "category": "coat",
         "id": 148,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/maxi-puffer-coat-p00562700.html",
@@ -2094,7 +2242,8 @@
         "section": "kid",
         "category": "coat",
         "id": 149,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/puffer-water-repellent-trench-coat-p05507718.html",
@@ -2104,7 +2253,8 @@
         "section": "kid",
         "category": "coat",
         "id": 150,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p08288888.html",
@@ -2114,7 +2264,8 @@
         "section": "man",
         "category": "coat",
         "id": 151,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/comfort-coat-p05070770.html",
@@ -2124,7 +2275,8 @@
         "section": "man",
         "category": "coat",
         "id": 152,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/coat-with-matching-collar-p05905652.html",
@@ -2134,7 +2286,8 @@
         "section": "man",
         "category": "coat",
         "id": 153,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/comfort-coat-p05070770.html",
@@ -2144,7 +2297,8 @@
         "section": "man",
         "category": "coat",
         "id": 154,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/comfort-coat-p05070770.html",
@@ -2154,7 +2308,8 @@
         "section": "man",
         "category": "coat",
         "id": 155,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p09621310.html",
@@ -2164,7 +2319,8 @@
         "section": "man",
         "category": "coat",
         "id": 156,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/basic-coat-p03046470.html",
@@ -2174,7 +2330,8 @@
         "section": "man",
         "category": "coat",
         "id": 157,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-breasted-wool-blend-coat-p00706355.html",
@@ -2184,7 +2341,8 @@
         "section": "man",
         "category": "coat",
         "id": 158,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat---limited-edition-p06360589.html",
@@ -2194,7 +2352,8 @@
         "section": "man",
         "category": "coat",
         "id": 159,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-breasted-wool-blend-coat-p06452226.html",
@@ -2204,7 +2363,8 @@
         "section": "man",
         "category": "coat",
         "id": 160,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p06404752.html",
@@ -2214,7 +2374,8 @@
         "section": "man",
         "category": "coat",
         "id": 161,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/coat-with-detachable-collar-p00706376.html",
@@ -2224,7 +2385,8 @@
         "section": "man",
         "category": "coat",
         "id": 162,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/coat-with-detachable-collar-p00706376.html",
@@ -2234,7 +2396,8 @@
         "section": "man",
         "category": "coat",
         "id": 163,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/coat-with-detachable-collar-p00706394.html",
@@ -2244,7 +2407,8 @@
         "section": "man",
         "category": "coat",
         "id": 164,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/faux-fur-coat-p00993304.html",
@@ -2254,7 +2418,8 @@
         "section": "man",
         "category": "coat",
         "id": 165,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p09621310.html",
@@ -2264,7 +2429,8 @@
         "section": "man",
         "category": "coat",
         "id": 166,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p06404752.html",
@@ -2274,7 +2440,8 @@
         "section": "man",
         "category": "coat",
         "id": 167,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p09621310.html",
@@ -2284,7 +2451,8 @@
         "section": "man",
         "category": "coat",
         "id": 168,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-breasted-wool-blend-coat-p00706355.html",
@@ -2294,7 +2462,8 @@
         "section": "man",
         "category": "coat",
         "id": 169,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/coat---down-gilet-p09621313.html",
@@ -2304,7 +2473,8 @@
         "section": "man",
         "category": "coat",
         "id": 170,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p05992123.html",
@@ -2314,7 +2484,8 @@
         "section": "man",
         "category": "coat",
         "id": 171,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p06430589.html",
@@ -2324,7 +2495,8 @@
         "section": "man",
         "category": "coat",
         "id": 172,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-coat-p01564564.html",
@@ -2334,7 +2506,8 @@
         "section": "man",
         "category": "coat",
         "id": 173,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/quilted-coat-with-hood-p00706341.html",
@@ -2344,7 +2517,8 @@
         "section": "man",
         "category": "coat",
         "id": 174,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-breasted-coat-p06662473.html",
@@ -2354,7 +2528,8 @@
         "section": "man",
         "category": "coat",
         "id": 175,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-weave-coat-p08491400.html",
@@ -2364,7 +2539,8 @@
         "section": "man",
         "category": "coat",
         "id": 176,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-hooded-coat-p08491300.html",
@@ -2374,7 +2550,8 @@
         "section": "man",
         "category": "coat",
         "id": 177,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/textured-coat-p04058752.html",
@@ -2384,7 +2561,8 @@
         "section": "man",
         "category": "coat",
         "id": 178,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p09621310.html",
@@ -2394,7 +2572,8 @@
         "section": "man",
         "category": "coat",
         "id": 179,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/coat---down-gilet-p09621313.html",
@@ -2404,7 +2583,8 @@
         "section": "man",
         "category": "coat",
         "id": 180,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/check-coat-p09621312.html",
@@ -2414,7 +2594,8 @@
         "section": "man",
         "category": "coat",
         "id": 181,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-weave-coat-p08491400.html",
@@ -2424,7 +2605,8 @@
         "section": "man",
         "category": "coat",
         "id": 182,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/hooded-quilted-coat-p05320493.html",
@@ -2434,7 +2616,8 @@
         "section": "man",
         "category": "coat",
         "id": 183,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p06389589.html",
@@ -2444,7 +2627,8 @@
         "section": "man",
         "category": "coat",
         "id": 184,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p02675401.html",
@@ -2454,7 +2638,8 @@
         "section": "man",
         "category": "coat",
         "id": 185,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p03046472.html",
@@ -2464,7 +2649,8 @@
         "section": "man",
         "category": "coat",
         "id": 186,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat-p06398752.html",
@@ -2474,7 +2660,8 @@
         "section": "man",
         "category": "coat",
         "id": 187,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/wool-blend-coat---limited-edition-p06362589.html",
@@ -2484,7 +2671,8 @@
         "section": "man",
         "category": "coat",
         "id": 188,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/basic-coat-p03046470.html",
@@ -2494,7 +2682,8 @@
         "section": "man",
         "category": "coat",
         "id": 189,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/double-faced-100-wool-coat-p08491500.html",
@@ -2504,7 +2693,8 @@
         "section": "man",
         "category": "coat",
         "id": 190,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/comfort-coat-p05070770.html",
@@ -2514,7 +2704,8 @@
         "section": "man",
         "category": "coat",
         "id": 191,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/comfort-coat-p05070770.html",
@@ -2524,7 +2715,8 @@
         "section": "man",
         "category": "coat",
         "id": 192,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/embellished-vinyl-high-heel-shoes-p12221010.html",
@@ -2534,7 +2726,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 193,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/embellished-vinyl-high-heel-shoes-p12232910.html",
@@ -2544,7 +2737,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 194,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/high-heel-slingback-shoes-p12207010.html",
@@ -2554,7 +2748,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 195,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/quilted-running-trainers-p15000110.html",
@@ -2564,7 +2759,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 196,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/transparent-high-heel-sandals-p12324910.html",
@@ -2574,7 +2770,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 197,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/knee-high-heeled-boots-p13006011.html",
@@ -2584,7 +2781,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 198,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/contrast-trainers-p15145010.html",
@@ -2594,7 +2792,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 199,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/kitten-heel-ankle-boots-p13106810.html",
@@ -2604,7 +2803,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 200,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/block-heel-fabric-shoes-p12227910.html",
@@ -2614,7 +2814,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 201,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/kitten-heel-ankle-boots-p13144010.html",
@@ -2624,7 +2825,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 202,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/slingback-rhinestone-high-heel-shoes-p12253010.html",
@@ -2634,7 +2836,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 203,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/block-heel-embellished-shoes-p12256010.html",
@@ -2644,7 +2847,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 204,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/fabric-platform-running-trainers-p15141010.html",
@@ -2654,7 +2858,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 205,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/vinyl-slingback-shoes-p12815010.html",
@@ -2664,7 +2869,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 206,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/heeled-shoes-with-embellished-bow-p12247010.html",
@@ -2674,7 +2880,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 207,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/block-heel-slingback-shoes-p12232010.html",
@@ -2684,7 +2891,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 208,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/chunky-sole-trainers-p15156010.html",
@@ -2694,7 +2902,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 209,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/geometric-high-heeled-ankle-boots-p12104010.html",
@@ -2704,7 +2913,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 210,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/embellished-vinyl-high-heel-shoes-p12220010.html",
@@ -2714,7 +2924,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 211,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/high-heel-slingback-shoes-p12216010.html",
@@ -2724,7 +2935,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 212,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/contrast-high-heel-shoes-p12255010.html",
@@ -2734,7 +2946,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 213,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/embellished-heeled-slingback-shoes-p12238910.html",
@@ -2744,7 +2957,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 214,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/heeled-mules-with-rhinestones-p12812010.html",
@@ -2754,7 +2968,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 215,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/slingback-shoes-p12238010.html",
@@ -2764,7 +2979,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 216,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/shiny-heeled-shoes-p12240010.html",
@@ -2774,7 +2990,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 217,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/combined-running-trainers-p15102910.html",
@@ -2784,7 +3001,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 218,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/mesh-high-heel-shoes-with-rhinestones-p12207110.html",
@@ -2794,7 +3012,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 219,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/slingback-rhinestone-high-heels-p12211010.html",
@@ -2804,7 +3023,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 220,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/slingback-rhinestone-high-heels-p12211010.html",
@@ -2814,7 +3034,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 221,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/embellished-heeled-slingback-shoes-p12223010.html",
@@ -2824,7 +3045,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 222,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/leather-slingback-shoes-p12217010.html",
@@ -2834,7 +3056,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 223,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/block-heel-slingback-shoes-p12242010.html",
@@ -2844,7 +3067,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 224,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/platform-trainers-p15366010.html",
@@ -2854,7 +3078,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 225,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/slingback-shoes-p12238010.html",
@@ -2864,7 +3089,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 226,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/fabric-high-heel-shoes-p12215010.html",
@@ -2874,7 +3100,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 227,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/combined-running-trainers-p15107010.html",
@@ -2884,7 +3111,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 228,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/running-trainers-p15000010.html",
@@ -2894,7 +3122,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 229,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/slingback-platform-shoes-with-rhinestones-p12202110.html",
@@ -2904,7 +3133,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 230,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/embellished-high-heel-fabric-shoes-p12252010.html",
@@ -2914,7 +3144,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 231,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/running-trainers-p15114910.html",
@@ -2924,7 +3155,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 232,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/rhinestone-trainers-p15002010.html",
@@ -2934,7 +3166,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 233,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/velvet-high-heel-shoes-p12208110.html",
@@ -2944,7 +3177,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 234,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/high-heel-shoes-with-rhinestone-toecap-p12201110.html",
@@ -2954,7 +3188,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 235,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/running-trainers-p15116910.html",
@@ -2964,7 +3199,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 236,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/platform-high-heel-shoes-p12225010.html",
@@ -2974,7 +3210,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 237,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/high-heel-slingback-shoes-p12241010.html",
@@ -2984,7 +3221,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 238,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/leather-block-heel-shoes-with-square-toe-p12200110.html",
@@ -2994,7 +3232,8 @@
         "section": "woman",
         "category": "shoes",
         "id": 239,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/embellished-heeled-slingback-shoes-p12236010.html",
@@ -3004,547 +3243,602 @@
         "section": "woman",
         "category": "shoes",
         "id": 240,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12036020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2036/020/800/2/w/287/2036020800_6_1_1.jpg?ts=1666090784867",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2036/020/800/2/w/288/2036020800_6_1_1.jpg?ts=1666090784867",
         "title": "CHUNKY CHELSEA BOOTS",
         "price": "₹ 5,990.00",
         "section": "man",
         "category": "shoes",
         "id": 241,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-sneakers-p12311020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2311/020/203/2/w/288/2311020203_6_1_1.jpg?ts=1663255341057",
+        "title": "MULTICOLOURED RUNNING SNEAKERS",
+        "price": "₹ 5,990.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 242,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12249020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2249/020/800/2/w/288/2249020800_6_1_1.jpg?ts=1665066425477",
+        "title": "MULTIPIECE TRAINERS",
+        "price": "₹ 4,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 243,
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12304921.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2304/921/010/2/w/287/2304921010_6_1_1.jpg?ts=1659968343450",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2304/921/010/2/w/288/2304921010_6_1_1.jpg?ts=1659968343450",
         "title": "CONTRAST RUNNING TRAINERS",
         "price": "₹ 4,590.00",
         "section": "man",
         "category": "shoes",
-        "id": 242,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/black-friday-p12243020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2243/020/001/2/w/287/2243020001_6_1_1.jpg?ts=1661774520595",
-        "title": "CHUNKY SOLE SNEAKERS",
-        "price": "₹ 3,990.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 243,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/black-friday-p12314020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2314/020/202/2/w/287/2314020202_6_1_1.jpg?ts=1659083146069",
-        "title": "MULTI-PIECE RUNNING TRAINERS",
-        "price": "₹ 4,590.00",
-        "section": "man",
-        "category": "shoes",
         "id": 244,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/black-friday-p12316922.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2316/922/010/2/w/287/2316922010_6_1_1.jpg?ts=1660029243370",
-        "title": "MULTI-PIECE RUNNING TRAINERS",
-        "price": "₹ 4,590.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 245,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/chunky-trainers-p12252020.html",
-        "img": "https://static.zara.net/photos///2023/V/1/2/p/2252/020/001/2/w/287/2252020001_6_1_1.jpg?ts=1668771849381",
-        "title": "CHUNKY TRAINERS",
-        "price": "₹ 3,590.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 246,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-sneakers-p12311020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2311/020/203/2/w/287/2311020203_6_1_1.jpg?ts=1663255341057",
-        "title": "MULTICOLOURED RUNNING SNEAKERS",
-        "price": "₹ 5,990.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 247,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/black-friday-p12200020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2200/020/001/2/w/287/2200020001_6_1_1.jpg?ts=1659968284138",
-        "title": "CONTRAST TRAINERS",
-        "price": "₹ 3,990.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 248,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-trainers-p12387020.html",
-        "img": "https://static.zara.net/photos///2023/V/1/2/p/2387/020/203/2/w/287/2387020203_6_1_1.jpg?ts=1668083019549",
-        "title": "MULTICOLOURED RUNNING TRAINERS",
-        "price": "₹ 5,990.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 249,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12325020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2325/020/120/2/w/287/2325020120_6_1_1.jpg?ts=1659516465080",
-        "title": "RUNNING TRAINERS WITH CHUNKY SOLES",
-        "price": "₹ 4,590.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 250,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/chelsea-ankle-boots-p12010120.html",
-        "img": "https://static.zara.net/photos///2023/V/1/2/p/2010/120/800/2/w/287/2010120800_6_1_1.jpg?ts=1669369608365",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2010/120/800/2/w/288/2010120800_6_1_1.jpg?ts=1669369608365",
         "title": "CHELSEA ANKLE BOOTS",
         "price": "₹ 5,990.00",
         "section": "man",
         "category": "shoes",
-        "id": 251,
-        "myprice": 2990
+        "id": 245,
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-sneakers-p12303920.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2303/920/040/2/w/287/2303920040_6_1_1.jpg?ts=1661241647820",
-        "title": "KNIT FABRIC RUNNING SNEAKERS",
-        "price": "₹ 2,990.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 252,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-trainers-p12305020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2305/020/203/2/w/287/2305020203_6_1_1.jpg?ts=1658827857749",
-        "title": "MULTICOLOURED RUNNING TRAINERS",
-        "price": "₹ 4,590.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 253,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/retro-multi-piece-trainers-p12232020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2232/020/004/2/w/287/2232020004_6_1_1.jpg?ts=1661504839992",
-        "title": "RETRO MULTI-PIECE TRAINERS",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12243020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2243/020/001/2/w/288/2243020001_6_1_1.jpg?ts=1661774520595",
+        "title": "CHUNKY SOLE SNEAKERS",
         "price": "₹ 3,990.00",
         "section": "man",
         "category": "shoes",
-        "id": 254,
-        "myprice": 2990
+        "id": 246,
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/multipiece-trainers-p12207920.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2207/920/203/2/w/287/2207920203_6_1_1.jpg?ts=1661243837935",
-        "title": "MULTIPIECE TRAINERS",
-        "price": "₹ 3,990.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 255,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/air-cushion-running-trainers-p12303020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2303/020/040/2/w/287/2303020040_6_1_1.jpg?ts=1660029245926",
-        "title": "AIR CUSHION RUNNING TRAINERS",
-        "price": "₹ 4,590.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 256,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/monochrome-trainers-p12205022.html",
-        "img": "https://static.zara.net/photos///2023/V/1/2/p/2205/022/800/2/w/287/2205022800_6_1_1.jpg?ts=1670857424546",
-        "title": "MONOCHROME TRAINERS",
-        "price": "₹ 3,590.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 257,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-trainers-p12386020.html",
-        "img": "https://static.zara.net/photos///2023/V/1/2/p/2386/020/202/2/w/287/2386020202_6_1_1.jpg?ts=1668771849688",
-        "title": "MULTICOLOURED RUNNING TRAINERS",
-        "price": "₹ 4,590.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 258,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/black-friday-p12216020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2216/020/040/2/w/287/2216020040_6_1_1.jpg?ts=1660029246546",
-        "title": "LACELESS TRAINERS",
-        "price": "₹ 3,590.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 259,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/black-friday-p12208921.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2208/921/001/2/w/287/2208921001_6_1_1.jpg?ts=1659456070157",
-        "title": "MULTIPIECE TRAINERS",
-        "price": "₹ 3,990.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 260,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/minimalist-lace-up-trainers-p12201120.html",
-        "img": "https://static.zara.net/photos///2023/V/1/2/p/2201/120/001/2/w/287/2201120001_6_1_1.jpg?ts=1669637690253",
-        "title": "MINIMALIST LACE-UP TRAINERS",
-        "price": "₹ 2,990.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 261,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/multi-piece-contrast-sneakers-p12242020.html",
-        "img": "https://static.zara.net/photos///2023/V/1/2/p/2242/020/203/2/w/287/2242020203_6_1_1.jpg?ts=1669380640760",
-        "title": "MULTI-PIECE CONTRAST SNEAKERS",
-        "price": "₹ 4,590.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 262,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/multicoloured-trek-trainers-p12203020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2203/020/203/2/w/287/2203020203_6_1_1.jpg?ts=1659440596703",
-        "title": "MULTICOLOURED TREK TRAINERS",
-        "price": "₹ 4,590.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 263,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/skate-trainers-p12246020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2246/020/800/2/w/287/2246020800_6_1_1.jpg?ts=1666089574726",
-        "title": "SKATE TRAINERS",
-        "price": "₹ 4,990.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 264,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/black-friday-p12327020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2327/020/202/2/w/287/2327020202_6_1_1.jpg?ts=1662114678023",
-        "title": "RUNNING TRAINERS",
-        "price": "₹ 5,990.00",
-        "section": "man",
-        "category": "shoes",
-        "id": 265,
-        "myprice": 2990
-    },
-    {
-        "singleproduct": "https://www.zara.com/in/en/contrast-trainers-p12201920.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2201/920/001/2/w/287/2201920001_6_1_1.jpg?ts=1659512977340",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12200020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2200/020/001/2/w/288/2200020001_6_1_1.jpg?ts=1659968284138",
         "title": "CONTRAST TRAINERS",
         "price": "₹ 3,990.00",
         "section": "man",
         "category": "shoes",
-        "id": 266,
-        "myprice": 2990
+        "id": 247,
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/retro-multi-piece-trainers-p12222020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2222/020/040/2/w/287/2222020040_6_1_1.jpg?ts=1659521657928",
-        "title": "RETRO MULTI-PIECE TRAINERS",
-        "price": "₹ 3,990.00",
+        "singleproduct": "https://www.zara.com/in/en/vibram%C2%AE-athleticz-running-trainers-p12332020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2332/020/202/2/w/288/2332020202_6_1_1.jpg?ts=1669651515671",
+        "title": "VIBRAM® ATHLETICZ RUNNING TRAINERS",
+        "price": "₹ 7,990.00",
         "section": "man",
         "category": "shoes",
-        "id": 267,
-        "myprice": 2990
+        "id": 248,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/chunky-trainers-p12252020.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2252/020/001/2/w/288/2252020001_6_1_1.jpg?ts=1668771849381",
+        "title": "CHUNKY TRAINERS",
+        "price": "₹ 3,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 249,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/vibram%C2%AE-athleticz-running-trainers-p12300120.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2300/120/800/2/w/288/2300120800_6_1_1.jpg?ts=1669373282223",
+        "title": "VIBRAM® ATHLETICZ RUNNING TRAINERS",
+        "price": "₹ 8,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 250,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/monochrome-trainers-p12205022.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2205/022/800/2/w/288/2205022800_6_1_1.jpg?ts=1670857424546",
+        "title": "MONOCHROME TRAINERS",
+        "price": "₹ 3,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 251,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12325020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2325/020/120/2/w/288/2325020120_6_1_1.jpg?ts=1659516465080",
+        "title": "RUNNING TRAINERS WITH CHUNKY SOLES",
+        "price": "₹ 4,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 252,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12036020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2036/020/800/2/w/288/2036020800_6_1_1.jpg?ts=1666090784867",
+        "title": "CHUNKY CHELSEA BOOTS",
+        "price": "₹ 5,990.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 253,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-sneakers-p12311020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2311/020/203/2/w/288/2311020203_6_1_1.jpg?ts=1663255341057",
+        "title": "MULTICOLOURED RUNNING SNEAKERS",
+        "price": "₹ 5,990.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 254,
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12249020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2249/020/800/2/w/287/2249020800_6_1_1.jpg?ts=1665066425477",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2249/020/800/2/w/288/2249020800_6_1_1.jpg?ts=1665066425477",
         "title": "MULTIPIECE TRAINERS",
         "price": "₹ 4,590.00",
         "section": "man",
         "category": "shoes",
-        "id": 268,
-        "myprice": 2990
+        "id": 255,
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/black-friday-p12307020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2307/020/001/2/w/287/2307020001_6_1_1.jpg?ts=1659954689055",
-        "title": "RHUIGI MULTICOLOURED RUNNING TRAINERS",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12304921.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2304/921/010/2/w/288/2304921010_6_1_1.jpg?ts=1659968343450",
+        "title": "CONTRAST RUNNING TRAINERS",
+        "price": "₹ 4,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 256,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/chelsea-ankle-boots-p12010120.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2010/120/800/2/w/288/2010120800_6_1_1.jpg?ts=1669369608365",
+        "title": "CHELSEA ANKLE BOOTS",
+        "price": "₹ 5,990.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 257,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12243020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2243/020/001/2/w/288/2243020001_6_1_1.jpg?ts=1661774520595",
+        "title": "CHUNKY SOLE SNEAKERS",
+        "price": "₹ 3,990.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 258,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12200020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2200/020/001/2/w/288/2200020001_6_1_1.jpg?ts=1659968284138",
+        "title": "CONTRAST TRAINERS",
+        "price": "₹ 3,990.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 259,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/vibram%C2%AE-athleticz-running-trainers-p12332020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2332/020/202/2/w/288/2332020202_6_1_1.jpg?ts=1669651515671",
+        "title": "VIBRAM® ATHLETICZ RUNNING TRAINERS",
+        "price": "₹ 7,990.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 260,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/chunky-trainers-p12252020.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2252/020/001/2/w/288/2252020001_6_1_1.jpg?ts=1668771849381",
+        "title": "CHUNKY TRAINERS",
+        "price": "₹ 3,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 261,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/vibram%C2%AE-athleticz-running-trainers-p12300120.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2300/120/800/2/w/288/2300120800_6_1_1.jpg?ts=1669373282223",
+        "title": "VIBRAM® ATHLETICZ RUNNING TRAINERS",
+        "price": "₹ 8,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 262,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/monochrome-trainers-p12205022.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2205/022/800/2/w/288/2205022800_6_1_1.jpg?ts=1670857424546",
+        "title": "MONOCHROME TRAINERS",
+        "price": "₹ 3,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 263,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12325020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2325/020/120/2/w/288/2325020120_6_1_1.jpg?ts=1659516465080",
+        "title": "RUNNING TRAINERS WITH CHUNKY SOLES",
+        "price": "₹ 4,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 264,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12036020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2036/020/800/2/w/288/2036020800_6_1_1.jpg?ts=1666090784867",
+        "title": "CHUNKY CHELSEA BOOTS",
+        "price": "₹ 5,990.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 265,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-sneakers-p12311020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2311/020/203/2/w/288/2311020203_6_1_1.jpg?ts=1663255341057",
+        "title": "MULTICOLOURED RUNNING SNEAKERS",
+        "price": "₹ 5,990.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 266,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12249020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2249/020/800/2/w/288/2249020800_6_1_1.jpg?ts=1665066425477",
+        "title": "MULTIPIECE TRAINERS",
+        "price": "₹ 4,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 267,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12304921.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2304/921/010/2/w/288/2304921010_6_1_1.jpg?ts=1659968343450",
+        "title": "CONTRAST RUNNING TRAINERS",
+        "price": "₹ 4,590.00",
+        "section": "man",
+        "category": "shoes",
+        "id": 268,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/chelsea-ankle-boots-p12010120.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2010/120/800/2/w/288/2010120800_6_1_1.jpg?ts=1669369608365",
+        "title": "CHELSEA ANKLE BOOTS",
         "price": "₹ 5,990.00",
         "section": "man",
         "category": "shoes",
         "id": 269,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/multi-piece-running-trainers-p12316921.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2316/921/032/2/w/287/2316921032_6_1_1.jpg?ts=1660029266871",
-        "title": "MULTI-PIECE RUNNING TRAINERS",
-        "price": "₹ 4,590.00",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12243020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2243/020/001/2/w/288/2243020001_6_1_1.jpg?ts=1661774520595",
+        "title": "CHUNKY SOLE SNEAKERS",
+        "price": "₹ 3,990.00",
         "section": "man",
         "category": "shoes",
         "id": 270,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/multi-piece-trainers-p12218020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2218/020/040/2/w/287/2218020040_6_1_1.jpg?ts=1663325398312",
-        "title": "MULTI-PIECE TRAINERS",
-        "price": "₹ 3,590.00",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12200020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2200/020/001/2/w/288/2200020001_6_1_1.jpg?ts=1659968284138",
+        "title": "CONTRAST TRAINERS",
+        "price": "₹ 3,990.00",
         "section": "man",
         "category": "shoes",
         "id": 271,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/rubberised-trim-trainers-p12200920.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2200/920/001/2/w/287/2200920001_6_1_1.jpg?ts=1659968277263",
-        "title": "RUBBERISED TRIM TRAINERS",
-        "price": "₹ 3,990.00",
+        "singleproduct": "https://www.zara.com/in/en/vibram%C2%AE-athleticz-running-trainers-p12332020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2332/020/202/2/w/288/2332020202_6_1_1.jpg?ts=1669651515671",
+        "title": "VIBRAM® ATHLETICZ RUNNING TRAINERS",
+        "price": "₹ 7,990.00",
         "section": "man",
         "category": "shoes",
         "id": 272,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-trainers-p12306020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2306/020/040/2/w/287/2306020040_6_1_1.jpg?ts=1659440597507",
-        "title": "KNIT FABRIC RUNNING TRAINERS",
-        "price": "₹ 3,990.00",
+        "singleproduct": "https://www.zara.com/in/en/chunky-trainers-p12252020.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2252/020/001/2/w/288/2252020001_6_1_1.jpg?ts=1668771849381",
+        "title": "CHUNKY TRAINERS",
+        "price": "₹ 3,590.00",
         "section": "man",
         "category": "shoes",
         "id": 273,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/black-friday-p12309020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2309/020/202/2/w/287/2309020202_6_1_1.jpg?ts=1659954678383",
-        "title": "RHUIGI MULTICOLOURED RUNNING TRAINERS",
-        "price": "₹ 5,590.00",
+        "singleproduct": "https://www.zara.com/in/en/vibram%C2%AE-athleticz-running-trainers-p12300120.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2300/120/800/2/w/288/2300120800_6_1_1.jpg?ts=1669373282223",
+        "title": "VIBRAM® ATHLETICZ RUNNING TRAINERS",
+        "price": "₹ 8,590.00",
         "section": "man",
         "category": "shoes",
         "id": 274,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-sneakers-p12313020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2313/020/001/2/w/287/2313020001_6_1_1.jpg?ts=1660126610740",
-        "title": "MULTICOLOURED RUNNING SNEAKERS",
-        "price": "₹ 4,590.00",
+        "singleproduct": "https://www.zara.com/in/en/monochrome-trainers-p12205022.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2205/022/800/2/w/288/2205022800_6_1_1.jpg?ts=1670857424546",
+        "title": "MONOCHROME TRAINERS",
+        "price": "₹ 3,590.00",
         "section": "man",
         "category": "shoes",
         "id": 275,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/black-friday-p12300020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2300/020/203/2/w/287/2300020203_6_1_1.jpg?ts=1659440596754",
-        "title": "CONTRAST TREK TRAINERS",
-        "price": "₹ 5,990.00",
+        "singleproduct": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12325020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2325/020/120/2/w/288/2325020120_6_1_1.jpg?ts=1659516465080",
+        "title": "RUNNING TRAINERS WITH CHUNKY SOLES",
+        "price": "₹ 4,590.00",
         "section": "man",
         "category": "shoes",
         "id": 276,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/multi-piece-running-trainers-p12325920.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2325/920/202/2/w/287/2325920202_6_1_1.jpg?ts=1658490367277",
-        "title": "MULTI-PIECE RUNNING TRAINERS",
-        "price": "₹ 6,990.00",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12036020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2036/020/800/2/w/288/2036020800_6_1_1.jpg?ts=1666090784867",
+        "title": "CHUNKY CHELSEA BOOTS",
+        "price": "₹ 5,990.00",
         "section": "man",
         "category": "shoes",
         "id": 277,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/minimalist-lace-up-trainers-p12221020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2221/020/040/2/w/287/2221020040_6_1_1.jpg?ts=1659429892252",
-        "title": "MINIMALIST LACE-UP TRAINERS",
-        "price": "₹ 2,990.00",
+        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-sneakers-p12311020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2311/020/203/2/w/288/2311020203_6_1_1.jpg?ts=1663255341057",
+        "title": "MULTICOLOURED RUNNING SNEAKERS",
+        "price": "₹ 5,990.00",
         "section": "man",
         "category": "shoes",
         "id": 278,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-trainers-p12308020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2308/020/004/2/w/287/2308020004_6_1_1.jpg?ts=1660029245607",
-        "title": "KNIT FABRIC RUNNING TRAINERS",
-        "price": "₹ 5,990.00",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12249020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2249/020/800/2/w/288/2249020800_6_1_1.jpg?ts=1665066425477",
+        "title": "MULTIPIECE TRAINERS",
+        "price": "₹ 4,590.00",
         "section": "man",
         "category": "shoes",
         "id": 279,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-trainers-p12308020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2308/020/405/2/w/287/2308020405_6_1_1.jpg?ts=1660029256421",
-        "title": "KNIT FABRIC RUNNING TRAINERS",
-        "price": "₹ 5,990.00",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12304921.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2304/921/010/2/w/288/2304921010_6_1_1.jpg?ts=1659968343450",
+        "title": "CONTRAST RUNNING TRAINERS",
+        "price": "₹ 4,590.00",
         "section": "man",
         "category": "shoes",
         "id": 280,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/spumefoam-technology-athleticz-running-trainers-p12330920.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2330/920/001/2/w/287/2330920001_6_1_1.jpg?ts=1669650929648",
-        "title": "SPUMEFOAM TECHNOLOGY ATHLETICZ RUNNING TRAINERS",
+        "singleproduct": "https://www.zara.com/in/en/chelsea-ankle-boots-p12010120.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2010/120/800/2/w/288/2010120800_6_1_1.jpg?ts=1669369608365",
+        "title": "CHELSEA ANKLE BOOTS",
         "price": "₹ 5,990.00",
         "section": "man",
         "category": "shoes",
         "id": 281,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/spumefoam-technology-athleticz-running-trainers-p12330920.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2330/920/035/2/w/287/2330920035_6_1_1.jpg?ts=1669651517620",
-        "title": "SPUMEFOAM TECHNOLOGY ATHLETICZ RUNNING TRAINERS",
-        "price": "₹ 5,990.00",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12243020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2243/020/001/2/w/288/2243020001_6_1_1.jpg?ts=1661774520595",
+        "title": "CHUNKY SOLE SNEAKERS",
+        "price": "₹ 3,990.00",
         "section": "man",
         "category": "shoes",
         "id": 282,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/monochrome-trainers-p12203120.html",
-        "img": "https://static.zara.net/photos///2023/V/1/2/p/2203/120/704/2/w/287/2203120704_6_1_1.jpg?ts=1669194627472",
-        "title": "MONOCHROME TRAINERS",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12200020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2200/020/001/2/w/288/2200020001_6_1_1.jpg?ts=1659968284138",
+        "title": "CONTRAST TRAINERS",
         "price": "₹ 3,990.00",
         "section": "man",
         "category": "shoes",
         "id": 283,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12324020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2324/020/040/2/w/287/2324020040_6_1_1.jpg?ts=1659015259991",
-        "title": "RUNNING TRAINERS WITH CHUNKY SOLES",
-        "price": "₹ 4,990.00",
+        "singleproduct": "https://www.zara.com/in/en/vibram%C2%AE-athleticz-running-trainers-p12332020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2332/020/202/2/w/288/2332020202_6_1_1.jpg?ts=1669651515671",
+        "title": "VIBRAM® ATHLETICZ RUNNING TRAINERS",
+        "price": "₹ 7,990.00",
         "section": "man",
         "category": "shoes",
         "id": 284,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/hiking-running-trainers-p12301120.html",
-        "img": "https://static.zara.net/photos///2023/V/1/2/p/2301/120/120/2/w/287/2301120120_6_1_1.jpg?ts=1669379603170",
-        "title": "HIKING RUNNING TRAINERS",
-        "price": "₹ 4,990.00",
+        "singleproduct": "https://www.zara.com/in/en/chunky-trainers-p12252020.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2252/020/001/2/w/288/2252020001_6_1_1.jpg?ts=1668771849381",
+        "title": "CHUNKY TRAINERS",
+        "price": "₹ 3,590.00",
         "section": "man",
         "category": "shoes",
         "id": 285,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/retro-running-sneakers-p12382020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2382/020/040/2/w/287/2382020040_6_1_1.jpg?ts=1664875518603",
-        "title": "RETRO RUNNING SNEAKERS",
-        "price": "₹ 4,590.00",
+        "singleproduct": "https://www.zara.com/in/en/vibram%C2%AE-athleticz-running-trainers-p12300120.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2300/120/800/2/w/288/2300120800_6_1_1.jpg?ts=1669373282223",
+        "title": "VIBRAM® ATHLETICZ RUNNING TRAINERS",
+        "price": "₹ 8,590.00",
         "section": "man",
         "category": "shoes",
         "id": 286,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/air-cushion-running-trainers-p12303020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2303/020/120/2/w/287/2303020120_6_1_1.jpg?ts=1659512996372",
-        "title": "AIR CUSHION RUNNING TRAINERS",
-        "price": "₹ 4,590.00",
+        "singleproduct": "https://www.zara.com/in/en/monochrome-trainers-p12205022.html",
+        "img": "https://static.zara.net/photos///2023/V/1/2/p/2205/022/800/2/w/288/2205022800_6_1_1.jpg?ts=1670857424546",
+        "title": "MONOCHROME TRAINERS",
+        "price": "₹ 3,590.00",
         "section": "man",
         "category": "shoes",
         "id": 287,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-trainers-p12322920.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2322/920/203/2/w/287/2322920203_6_1_1.jpg?ts=1659513009498",
-        "title": "MULTICOLOURED RUNNING TRAINERS",
+        "singleproduct": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12325020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2325/020/120/2/w/288/2325020120_6_1_1.jpg?ts=1659516465080",
+        "title": "RUNNING TRAINERS WITH CHUNKY SOLES",
         "price": "₹ 4,590.00",
         "section": "man",
         "category": "shoes",
         "id": 288,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/retro-running-trainers-p12323020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2323/020/010/2/w/287/2323020010_6_1_1.jpg?ts=1659513016404",
-        "title": "RETRO RUNNING TRAINERS",
-        "price": "₹ 3,990.00",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12036020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2036/020/800/2/w/288/2036020800_6_1_1.jpg?ts=1666090784867",
+        "title": "CHUNKY CHELSEA BOOTS",
+        "price": "₹ 5,990.00",
         "section": "man",
         "category": "shoes",
         "id": 289,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/minimalist-lace-up-trainers-p12221020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2221/020/001/2/w/287/2221020001_6_1_1.jpg?ts=1660809779724",
-        "title": "MINIMALIST LACE-UP TRAINERS",
-        "price": "₹ 2,990.00",
+        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-sneakers-p12311020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2311/020/203/2/w/288/2311020203_6_1_1.jpg?ts=1663255341057",
+        "title": "MULTICOLOURED RUNNING SNEAKERS",
+        "price": "₹ 5,990.00",
         "section": "man",
         "category": "shoes",
         "id": 290,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/multi-piece-trainers-p12202120.html",
-        "img": "https://static.zara.net/photos///2023/V/1/2/p/2202/120/800/2/w/287/2202120800_6_1_1.jpg?ts=1669969205275",
-        "title": "MULTI-PIECE TRAINERS",
-        "price": "₹ 2,990.00",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12249020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2249/020/800/2/w/288/2249020800_6_1_1.jpg?ts=1665066425477",
+        "title": "MULTIPIECE TRAINERS",
+        "price": "₹ 4,590.00",
         "section": "man",
         "category": "shoes",
         "id": 291,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/lace-up-sneakers-p12251020.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2251/020/800/2/w/287/2251020800_6_1_1.jpg?ts=1665496674430",
-        "title": "LACE-UP SNEAKERS",
-        "price": "₹ 3,990.00",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12036020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2036/020/800/2/w/288/2036020800_6_1_1.jpg?ts=1666090784867",
+        "title": "CHUNKY CHELSEA BOOTS",
+        "price": "₹ 5,990.00",
         "section": "man",
         "category": "shoes",
         "id": 292,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-trainers-p12310920.html",
-        "img": "https://static.zara.net/photos///2022/V/1/2/p/2310/920/004/2/w/287/2310920004_6_1_1.jpg?ts=1643732505816",
-        "title": "KNIT FABRIC RUNNING TRAINERS",
-        "price": "₹ 3,290.00",
+        "singleproduct": "https://www.zara.com/in/en/multicoloured-running-sneakers-p12311020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2311/020/203/2/w/288/2311020203_6_1_1.jpg?ts=1663255341057",
+        "title": "MULTICOLOURED RUNNING SNEAKERS",
+        "price": "₹ 5,990.00",
         "section": "man",
         "category": "shoes",
         "id": 293,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
-        "singleproduct": "https://www.zara.com/in/en/running-spumefoam-technology-sneakers-p12343821.html",
-        "img": "https://static.zara.net/photos///2022/I/1/2/p/2343/821/202/2/w/287/2343821202_6_1_1.jpg?ts=1658832235933",
-        "title": "RUNNING SPUMEFOAM TECHNOLOGY SNEAKERS",
-        "price": "₹ 6,990.00",
+        "singleproduct": "https://www.zara.com/in/en/black-friday-p12249020.html",
+        "img": "https://static.zara.net/photos///2022/I/1/2/p/2249/020/800/2/w/288/2249020800_6_1_1.jpg?ts=1665066425477",
+        "title": "MULTIPIECE TRAINERS",
+        "price": "₹ 4,590.00",
         "section": "man",
         "category": "shoes",
         "id": 294,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12036020.html",
@@ -3554,7 +3848,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 295,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12304921.html",
@@ -3564,7 +3859,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 296,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12243020.html",
@@ -3574,7 +3870,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 297,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12314020.html",
@@ -3584,7 +3881,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 298,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12316922.html",
@@ -3594,7 +3892,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 299,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/chunky-trainers-p12252020.html",
@@ -3604,7 +3903,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 300,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multicoloured-running-sneakers-p12311020.html",
@@ -3614,7 +3914,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 301,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12200020.html",
@@ -3624,7 +3925,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 302,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multicoloured-running-trainers-p12387020.html",
@@ -3634,7 +3936,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 303,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12325020.html",
@@ -3644,7 +3947,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 304,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/chelsea-ankle-boots-p12010120.html",
@@ -3654,7 +3958,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 305,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-sneakers-p12303920.html",
@@ -3664,7 +3969,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 306,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multicoloured-running-trainers-p12305020.html",
@@ -3674,7 +3980,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 307,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/retro-multi-piece-trainers-p12232020.html",
@@ -3684,7 +3991,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 308,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multipiece-trainers-p12207920.html",
@@ -3694,7 +4002,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 309,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/air-cushion-running-trainers-p12303020.html",
@@ -3704,7 +4013,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 310,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/monochrome-trainers-p12205022.html",
@@ -3714,7 +4024,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 311,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multicoloured-running-trainers-p12386020.html",
@@ -3724,7 +4035,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 312,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12216020.html",
@@ -3734,7 +4046,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 313,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12208921.html",
@@ -3744,7 +4057,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 314,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/minimalist-lace-up-trainers-p12201120.html",
@@ -3754,7 +4068,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 315,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multi-piece-contrast-sneakers-p12242020.html",
@@ -3764,7 +4079,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 316,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multicoloured-trek-trainers-p12203020.html",
@@ -3774,7 +4090,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 317,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/skate-trainers-p12246020.html",
@@ -3784,7 +4101,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 318,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12327020.html",
@@ -3794,7 +4112,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 319,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/contrast-trainers-p12201920.html",
@@ -3804,7 +4123,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 320,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/retro-multi-piece-trainers-p12222020.html",
@@ -3814,7 +4134,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 321,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12249020.html",
@@ -3824,7 +4145,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 322,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12307020.html",
@@ -3834,7 +4156,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 323,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multi-piece-running-trainers-p12316921.html",
@@ -3844,7 +4167,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 324,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multi-piece-trainers-p12218020.html",
@@ -3854,7 +4178,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 325,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/rubberised-trim-trainers-p12200920.html",
@@ -3864,7 +4189,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 326,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-trainers-p12306020.html",
@@ -3874,7 +4200,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 327,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12309020.html",
@@ -3884,7 +4211,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 328,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multicoloured-running-sneakers-p12313020.html",
@@ -3894,7 +4222,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 329,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12300020.html",
@@ -3904,7 +4233,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 330,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multi-piece-running-trainers-p12325920.html",
@@ -3914,7 +4244,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 331,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/minimalist-lace-up-trainers-p12221020.html",
@@ -3924,7 +4255,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 332,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-trainers-p12308020.html",
@@ -3934,7 +4266,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 333,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-trainers-p12308020.html",
@@ -3944,7 +4277,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 334,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/spumefoam-technology-athleticz-running-trainers-p12330920.html",
@@ -3954,7 +4288,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 335,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/spumefoam-technology-athleticz-running-trainers-p12330920.html",
@@ -3964,7 +4299,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 336,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/monochrome-trainers-p12203120.html",
@@ -3974,7 +4310,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 337,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/running-trainers-with-chunky-soles-p12324020.html",
@@ -3984,7 +4321,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 338,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/hiking-running-trainers-p12301120.html",
@@ -3994,7 +4332,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 339,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/retro-running-sneakers-p12382020.html",
@@ -4004,7 +4343,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 340,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/air-cushion-running-trainers-p12303020.html",
@@ -4014,7 +4354,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 341,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multicoloured-running-trainers-p12322920.html",
@@ -4024,7 +4365,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 342,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/retro-running-trainers-p12323020.html",
@@ -4034,7 +4376,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 343,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/minimalist-lace-up-trainers-p12221020.html",
@@ -4044,7 +4387,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 344,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multi-piece-trainers-p12202120.html",
@@ -4054,7 +4398,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 345,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/lace-up-sneakers-p12251020.html",
@@ -4064,7 +4409,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 346,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-trainers-p12310920.html",
@@ -4074,7 +4420,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 347,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/running-spumefoam-technology-sneakers-p12343821.html",
@@ -4084,7 +4431,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 348,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multi-piece-running-sneakers-p12385020.html",
@@ -4094,7 +4442,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 349,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/running-trainers-p12335020.html",
@@ -4104,7 +4453,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 350,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/knit-fabric-running-trainers-p12303921.html",
@@ -4114,7 +4464,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 351,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/running-trainers-p12345020.html",
@@ -4124,7 +4475,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 352,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/leather-running-trainers-p12326020.html",
@@ -4134,7 +4486,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 353,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/contrast-running-trainers-p12304921.html",
@@ -4144,7 +4497,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 354,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multicoloured-running-trainers-p12386020.html",
@@ -4154,7 +4508,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 355,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multi-piece-running-sneakers-p12385020.html",
@@ -4164,7 +4519,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 356,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/running-spumefoam-technology-trainers-p12343820.html",
@@ -4174,7 +4530,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 357,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/air-cushion-running-trainers-p12303020.html",
@@ -4184,7 +4541,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 358,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/joma%C2%AE-running-trainers-p12380820.html",
@@ -4194,7 +4552,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 359,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/joma%C2%AE-athleticz-running-trainers-p12380020.html",
@@ -4204,7 +4563,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 360,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/spumefoam-technology-athleticz-running-trainers-p12383020.html",
@@ -4214,7 +4574,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 361,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/joma%C2%AE-world-padel-tour%C2%AE-clay-sneakers-p12381020.html",
@@ -4224,7 +4585,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 362,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/leather-lace-up-sneakers-p12283920.html",
@@ -4234,7 +4596,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 363,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/sandals-with-buckles-p12700120.html",
@@ -4244,7 +4607,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 364,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/leather-ankle-boots-p12005020.html",
@@ -4254,7 +4618,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 365,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multipiece-trainers-p12231020.html",
@@ -4264,7 +4629,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 366,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/multi-piece-contrast-sneakers-p12242020.html",
@@ -4274,7 +4640,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 367,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/microperforated-trainers-p12215920.html",
@@ -4284,7 +4651,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 368,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12100920.html",
@@ -4294,7 +4662,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 369,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/retro-trainers-p12217020.html",
@@ -4304,7 +4673,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 370,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/lace-up-sneakers-p12229020.html",
@@ -4314,7 +4684,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 371,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/lace-up-sneakers-p12229020.html",
@@ -4324,7 +4695,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 372,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/black-friday-p12651020.html",
@@ -4334,7 +4706,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 373,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/contrast-sneakers-p12231920.html",
@@ -4344,7 +4717,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 374,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/minimalist-lace-up-trainers-p12230920.html",
@@ -4354,7 +4728,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 375,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/minimalist-lace-up-trainers-p12230920.html",
@@ -4364,7 +4739,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 376,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/chunky-leather-loafers-p12640020.html",
@@ -4374,7 +4750,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 377,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/embossed-laceless-trainers-p12220020.html",
@@ -4384,7 +4761,8 @@
         "section": "kid",
         "category": "shoes",
         "id": 378,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/stretch-shirt-p07545405.html",
@@ -4394,7 +4772,8 @@
         "section": "man",
         "category": "shirt",
         "id": 379,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/shiny-printed-shirt-p05988330.html",
@@ -4404,7 +4783,8 @@
         "section": "man",
         "category": "shirt",
         "id": 380,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/geometric-jacquard-shirt-p04127299.html",
@@ -4414,7 +4794,8 @@
         "section": "man",
         "category": "shirt",
         "id": 381,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/slim-fit-shirt-p02688211.html",
@@ -4424,7 +4805,8 @@
         "section": "man",
         "category": "shirt",
         "id": 382,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/coloured-denim-shirt-p06987330.html",
@@ -4434,7 +4816,8 @@
         "section": "man",
         "category": "shirt",
         "id": 383,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/floral-print-shirt-p04188010.html",
@@ -4444,7 +4827,8 @@
         "section": "man",
         "category": "shirt",
         "id": 384,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/velvet-shirt-p04149349.html",
@@ -4454,7 +4838,8 @@
         "section": "man",
         "category": "shirt",
         "id": 385,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/satin-shirt-p04037316.html",
@@ -4464,7 +4849,8 @@
         "section": "man",
         "category": "shirt",
         "id": 386,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/satin-shirt-p04039316.html",
@@ -4474,7 +4860,8 @@
         "section": "man",
         "category": "shirt",
         "id": 387,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/abstract-print-shirt-p04100264.html",
@@ -4484,7 +4871,8 @@
         "section": "man",
         "category": "shirt",
         "id": 388,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/textured-crochet-shirt-p01608428.html",
@@ -4494,7 +4882,8 @@
         "section": "man",
         "category": "shirt",
         "id": 389,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/asymmetric-shirt---limited-edition-p06777002.html",
@@ -4504,7 +4893,8 @@
         "section": "man",
         "category": "shirt",
         "id": 390,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/abstract-print-shirt-p06449358.html",
@@ -4514,7 +4904,8 @@
         "section": "man",
         "category": "shirt",
         "id": 391,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/satin-shirt-p04037316.html",
@@ -4524,7 +4915,8 @@
         "section": "man",
         "category": "shirt",
         "id": 392,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/crochet-shirt-p01608787.html",
@@ -4534,7 +4926,8 @@
         "section": "man",
         "category": "shirt",
         "id": 393,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/geometric-print-shirt-p06581430.html",
@@ -4544,7 +4937,8 @@
         "section": "man",
         "category": "shirt",
         "id": 394,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/velvet-shirt-p09621689.html",
@@ -4554,7 +4948,8 @@
         "section": "man",
         "category": "shirt",
         "id": 395,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/shirt-with-french-cuffs-p04483441.html",
@@ -4564,7 +4959,8 @@
         "section": "man",
         "category": "shirt",
         "id": 396,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/pleated-shirt---limited-edition-p06779600.html",
@@ -4574,7 +4970,8 @@
         "section": "man",
         "category": "shirt",
         "id": 397,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/bandana-print-shirt-p02599388.html",
@@ -4584,7 +4981,8 @@
         "section": "man",
         "category": "shirt",
         "id": 398,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/linen---cotton-blend-shirt-p00975210.html",
@@ -4594,7 +4992,8 @@
         "section": "man",
         "category": "shirt",
         "id": 399,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/textured-crochet-shirt-p00775451.html",
@@ -4604,7 +5003,8 @@
         "section": "man",
         "category": "shirt",
         "id": 400,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/knot-print-shirt-p05984220.html",
@@ -4614,7 +5014,8 @@
         "section": "man",
         "category": "shirt",
         "id": 401,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/shirt-with-bib-detail-p06461360.html",
@@ -4624,7 +5025,8 @@
         "section": "man",
         "category": "shirt",
         "id": 402,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/contrast-shirt-p06085353.html",
@@ -4634,7 +5036,8 @@
         "section": "man",
         "category": "shirt",
         "id": 403,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/floral-jacquard-shirt-p04041054.html",
@@ -4644,7 +5047,8 @@
         "section": "man",
         "category": "shirt",
         "id": 404,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/striped-shirt-p05613077.html",
@@ -4654,7 +5058,8 @@
         "section": "man",
         "category": "shirt",
         "id": 405,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/linen---cotton-blend-shirt-p00975210.html",
@@ -4664,7 +5069,8 @@
         "section": "man",
         "category": "shirt",
         "id": 406,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cotton-shirt-p05594267.html",
@@ -4674,7 +5080,8 @@
         "section": "man",
         "category": "shirt",
         "id": 407,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/sketch-print-shirt-p05910742.html",
@@ -4684,7 +5091,8 @@
         "section": "man",
         "category": "shirt",
         "id": 408,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/striped-elastic-shirt-p07545436.html",
@@ -4694,7 +5102,8 @@
         "section": "man",
         "category": "shirt",
         "id": 409,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/paisley-jacquard-shirt-p03562410.html",
@@ -4704,7 +5113,8 @@
         "section": "man",
         "category": "shirt",
         "id": 410,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/geometric-print-shirt-p06085355.html",
@@ -4714,7 +5124,8 @@
         "section": "man",
         "category": "shirt",
         "id": 411,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cropped-lyocell-shirt-p03717304.html",
@@ -4724,7 +5135,8 @@
         "section": "man",
         "category": "shirt",
         "id": 412,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/cotton-shirt---limited-edition-p05588326.html",
@@ -4734,7 +5146,8 @@
         "section": "man",
         "category": "shirt",
         "id": 413,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/premium-striped-oxford-shirt-p00399014.html",
@@ -4744,7 +5157,8 @@
         "section": "man",
         "category": "shirt",
         "id": 414,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/striped-shirt-p01434290.html",
@@ -4754,7 +5168,8 @@
         "section": "man",
         "category": "shirt",
         "id": 415,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/stretch-shirt-p07545425.html",
@@ -4764,7 +5179,8 @@
         "section": "man",
         "category": "shirt",
         "id": 416,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/bandana-print-shirt-p02599360.html",
@@ -4774,7 +5190,8 @@
         "section": "man",
         "category": "shirt",
         "id": 417,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/textured-shirt-p05592261.html",
@@ -4784,7 +5201,8 @@
         "section": "man",
         "category": "shirt",
         "id": 418,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/shirt-with-scarf-collar-p03090413.html",
@@ -4794,7 +5212,8 @@
         "section": "man",
         "category": "shirt",
         "id": 419,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/striped-elastic-shirt-p07545407.html",
@@ -4804,7 +5223,8 @@
         "section": "man",
         "category": "shirt",
         "id": 420,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/stand-up-collar-shirt-p07545691.html",
@@ -4814,7 +5234,8 @@
         "section": "man",
         "category": "shirt",
         "id": 421,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/striped-elastic-shirt-p07545446.html",
@@ -4824,7 +5245,8 @@
         "section": "man",
         "category": "shirt",
         "id": 422,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/abstract-print-shirt-p04148336.html",
@@ -4834,7 +5256,8 @@
         "section": "man",
         "category": "shirt",
         "id": 423,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/abstract-print-shirt-p04150336.html",
@@ -4844,7 +5267,8 @@
         "section": "man",
         "category": "shirt",
         "id": 424,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/jacquard-shirt-p07545191.html",
@@ -4854,7 +5278,8 @@
         "section": "man",
         "category": "shirt",
         "id": 425,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/relaxed-fit-suit-shirt-p01121304.html",
@@ -4864,7 +5289,8 @@
         "section": "man",
         "category": "shirt",
         "id": 426,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/non-iron-shirt-with-french-cuffs-p05445405.html",
@@ -4874,7 +5300,8 @@
         "section": "man",
         "category": "shirt",
         "id": 427,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/contrast-checked-shirt-p07446385.html",
@@ -4884,7 +5311,8 @@
         "section": "man",
         "category": "shirt",
         "id": 428,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/floral-jacquard-shirt-p01608361.html",
@@ -4894,7 +5322,8 @@
         "section": "man",
         "category": "shirt",
         "id": 429,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/textured-shirt-p04688092.html",
@@ -4904,7 +5333,8 @@
         "section": "man",
         "category": "shirt",
         "id": 430,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
     },
     {
         "singleproduct": "https://www.zara.com/in/en/textured-shirt-p05588092.html",
@@ -4914,7 +5344,360 @@
         "section": "man",
         "category": "shirt",
         "id": 431,
-        "myprice": 2990
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p190072274.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/811/999/2/w/287/0120811999_6_1_1.jpg?ts=1651160643530",
+        "title": "spray",
+        "price": "₹ 990.00",
+        "section": "man",
+        "category": "spray",
+        "id": 432,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p190072273.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/812/999/2/w/287/0120812999_6_1_1.jpg?ts=1651160808033",
+        "title": "spray",
+        "price": "₹ 990.00",
+        "section": "man",
+        "category": "spray",
+        "id": 433,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p190072283.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/874/999/2/w/287/0120874999_6_1_1.jpg?ts=1651160601192",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "man",
+        "category": "spray",
+        "id": 434,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p190072281.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/849/999/2/w/287/0120849999_6_1_1.jpg?ts=1651160613506",
+        "title": "spray",
+        "price": "₹ 1,290.00",
+        "section": "man",
+        "category": "spray",
+        "id": 435,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p190072282.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/870/999/2/w/287/0120870999_6_1_1.jpg?ts=1651160826270",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "man",
+        "category": "spray",
+        "id": 436,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p190072284.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/881/999/2/w/287/0120881999_6_1_1.jpg?ts=1651160636534",
+        "title": "spray",
+        "price": "₹ 990.00",
+        "section": "man",
+        "category": "spray",
+        "id": 437,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p190072280.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/844/999/2/w/287/0120844999_6_1_1.jpg?ts=1651160888933",
+        "title": "spray",
+        "price": "₹ 1,590.00",
+        "section": "man",
+        "category": "spray",
+        "id": 438,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p190072278.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/840/999/2/w/287/0120840999_6_1_1.jpg?ts=1651160786739",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "man",
+        "category": "spray",
+        "id": 439,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p190072279.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/848/999/2/w/287/0120848999_6_1_1.jpg?ts=1651160802194",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "man",
+        "category": "spray",
+        "id": 440,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p190072271.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/800/999/2/w/287/0120800999_6_1_1.jpg?ts=1651160647654",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "man",
+        "category": "spray",
+        "id": 441,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222770538.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/804/999/2/w/287/0120804999_6_1_1.jpg?ts=1651160620982",
+        "title": "spray",
+        "price": "₹ 1,290.00",
+        "section": "man",
+        "category": "spray",
+        "id": 442,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222772519.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/844/999/2/w/287/0120844999_6_1_1.jpg?ts=1651160888933",
+        "title": "spray",
+        "price": "₹ 1,590.00",
+        "section": "man",
+        "category": "spray",
+        "id": 443,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222770539.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/820/999/2/w/287/0120820999_6_1_1.jpg?ts=1651160581569",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "man",
+        "category": "spray",
+        "id": 444,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222772522.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/881/999/2/w/287/0120881999_6_1_1.jpg?ts=1651160636534",
+        "title": "spray",
+        "price": "₹ 990.00",
+        "section": "man",
+        "category": "spray",
+        "id": 445,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222972507.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/874/999/2/w/287/0120874999_6_1_1.jpg?ts=1651160601192",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "man",
+        "category": "spray",
+        "id": 446,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222770540.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/824/999/2/w/287/0120824999_6_1_1.jpg?ts=1651160629462",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "man",
+        "category": "spray",
+        "id": 447,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222770537.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/800/999/2/w/287/0120800999_6_1_1.jpg?ts=1651160647654",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "man",
+        "category": "spray",
+        "id": 448,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p233784930.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/849/999/2/w/287/0120849999_6_1_1.jpg?ts=1651160613506",
+        "title": "spray",
+        "price": "₹ 1,290.00",
+        "section": "man",
+        "category": "spray",
+        "id": 449,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222772518.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/848/999/2/w/287/0120848999_6_1_1.jpg?ts=1651160802194",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "man",
+        "category": "spray",
+        "id": 450,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222772523.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0110/500/999/2/w/287/0110500999_6_1_1.jpg?ts=1651160813261",
+        "title": "spray",
+        "price": "₹ 990.00",
+        "section": "man",
+        "category": "spray",
+        "id": 451,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222772519.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/844/999/2/w/288/0120844999_6_1_1.jpg?ts=1651160888933",
+        "title": "spray",
+        "price": "₹ 1,590.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 452,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222770539.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/820/999/2/w/288/0120820999_6_1_1.jpg?ts=1651160581569",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 453,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222972507.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/874/999/2/w/288/0120874999_6_1_1.jpg?ts=1651160601192",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 454,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222770540.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/824/999/2/w/288/0120824999_6_1_1.jpg?ts=1651160629462",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 455,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222770537.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/800/999/2/w/288/0120800999_6_1_1.jpg?ts=1651160647654",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 456,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p233784930.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/849/999/2/w/288/0120849999_6_1_1.jpg?ts=1651160613506",
+        "title": "spray",
+        "price": "₹ 1,290.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 457,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222772518.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0120/848/999/2/w/288/0120848999_6_1_1.jpg?ts=1651160802194",
+        "title": "spray",
+        "price": "₹ 1,790.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 458,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/-c0p222772523.html",
+        "img": "https://static.zara.net/photos///2022/V/X/1/p/0110/500/999/2/w/288/0110500999_6_1_1.jpg?ts=1651160813261",
+        "title": "spray",
+        "price": "₹ 990.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 459,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/red-vanilla-refill-180-ml---6-09%C2%A0oz-p20120909.html",
+        "img": "https://static.zara.net/photos///2022/V/2/1/p/0120/909/999/2/w/288/0120909999_6_1_1.jpg?ts=1638289665939",
+        "title": "spray",
+        "price": "₹ 990.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 460,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/black-amber-refill-180-ml---6-09%C2%A0oz-p20120911.html",
+        "img": "https://static.zara.net/photos///2022/V/2/1/p/0120/911/999/2/w/288/0120911999_6_1_1.jpg?ts=1638375310107",
+        "title": "spray",
+        "price": "₹ 990.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 461,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/nuit-refill-180-ml---6-09%C2%A0oz-p20120910.html",
+        "img": "https://static.zara.net/photos///2022/V/2/1/p/0120/910/999/2/w/288/0120910999_6_1_1.jpg?ts=1638289686116",
+        "title": "spray",
+        "price": "₹ 990.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 462,
+        "myprice": 2990,
+        "amount": 8
+    },
+    {
+        "singleproduct": "https://www.zara.com/in/en/woman-gold-refill-180-ml---6-09%C2%A0oz-p20120912.html",
+        "img": "https://static.zara.net/photos///2022/V/2/1/p/0120/912/999/2/w/288/0120912999_6_1_1.jpg?ts=1638375317280",
+        "title": "spray",
+        "price": "₹ 990.00",
+        "section": "woman",
+        "category": "spray",
+        "id": 463,
+        "myprice": 2990,
+        "amount": 8
     }
 ],
   "states": [

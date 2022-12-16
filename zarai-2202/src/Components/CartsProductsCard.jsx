@@ -10,18 +10,21 @@ import {
   } from '@chakra-ui/react';
 import { useContext, useEffect, useState } from 'react';
 import { CartContext } from '../Context/CartContextProvider';
+import { FaTrash } from 'react-icons/fa';
   
   export default function CartsProductCard({
-    id,image,title,price,category,myprice
+    id,image,title,price,category,myprice,amount
   }) {
 
     
     const [newprice, setNewPrice]=useState(myprice)
-    const [qua, setQua]=useState(1)
-    function handleQuantity(val) {
-      setQua(qua+val)
+    // const [qua, setQua]=useState(1)
+    const {setIncrease, setDecrease,removeItem}=useContext(CartContext);
+
+    // function handleQuantity(val) {
+    //   setQua(qua+val)
       
-    }
+    // }
 
     // function handleInc(){
     //     setQua(qua-1)
@@ -31,9 +34,9 @@ import { CartContext } from '../Context/CartContextProvider';
     //     setQua(qua+1)
     // }
 
-    useEffect(()=>{
-        setNewPrice((qua)*myprice)
-    },[qua])
+    // useEffect(()=>{
+    //     setNewPrice((qua)*myprice)
+    // },[qua])
     return (
       <Center py={12}>
         {/* <RouterLink to={`/products/${id}`}> */}
@@ -86,22 +89,25 @@ import { CartContext } from '../Context/CartContextProvider';
             
             <Stack direction={'row'} align={'center'}>
               <Text fontWeight={800} fontSize={'xl'}>
-               {newprice}
+               {myprice*amount}
               </Text>
               <Text textDecoration={'line-through'} color={'gray.600'}>
                 {myprice*2}
               </Text>
             </Stack>
             <Stack direction={'row'} align={'center'}>
-              <Button disabled={qua===1} onClick={()=>handleQuantity(-1)} fontWeight={800} fontSize={'xl'}>
+              <Button onClick={()=>setDecrease(id)} fontWeight={800} fontSize={'xl'}>
                -
               </Button>
               <Button  fontWeight={800} fontSize={'xl'}>
-               {qua}
+               {amount}
               </Button>
-              <Button onClick={()=>handleQuantity(1)} textDecoration={'line-through'} color={'gray.600'}>
+              <Button onClick={()=>setIncrease(id)} textDecoration={'line-through'} color={'gray.600'}>
                 +
               </Button>
+            </Stack>
+            <Stack>
+                <FaTrash cursor={"pointer"} onClick={()=>removeItem(id)} />
             </Stack>
             {/* <Text color={'gray.600'}>
                 Rating:{rating}
