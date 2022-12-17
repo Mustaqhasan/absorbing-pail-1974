@@ -1,9 +1,11 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
+import Adress from '../Pages/Adress'
 import Cart from '../Pages/Cart'
 import Help from '../Pages/Help'
 import Home from '../Pages/Home'
 import Login from '../Pages/Login'
+import Payment from '../Pages/Payment'
 import Search from '../Pages/Search'
 import PersonalDetails from './PersonalDetails'
 import PrivateRoute from './PrivateRoute'
@@ -23,6 +25,8 @@ const AllRoutes = () => {
         {/* <Route path='/cart/:id' element={<Cart/>}/> */}
         <Route path='/signup' element={<PersonalDetails/>}/>
         <Route path='/products/:id' element={<ProductDetails/>}/>
+        <Route path='/adress' element={<Adress/>}/>
+        <Route path='/payment' element={<Payment/>}/>
       </Routes>
     </div>
   )

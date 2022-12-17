@@ -32,6 +32,8 @@ import {
   EditIcon,
 } from "@chakra-ui/icons";
 import { FaCartPlus } from "react-icons/fa";
+import { BsBoxSeam } from "react-icons/bs";
+import { AiOutlineAppstoreAdd } from "react-icons/ai";
 import { Link as RouterLink } from "react-router-dom";
 import { useContext } from "react";
 import { AuthContext } from "../Context/AuthContextProvider";
@@ -39,61 +41,65 @@ import { AuthContext } from "../Context/AuthContextProvider";
 
 // import { Input } from '@chakra-ui/react'
 // import React from 'react'
-import Footer from '../Components/Footer'
+import Footer from "../Components/Footer";
 // import { NavbarSearch } from '../Components/Navbar'
-import { Grid, GridItem } from '@chakra-ui/react'
-import {useState, useEffect} from "react"
+import { Grid, GridItem } from "@chakra-ui/react";
+import { useState, useEffect } from "react";
 import axios from "axios";
-import ProductCard from '../Components/ProductCard'
-import {useSearchParams} from "react-router-dom";
+import ProductCard from "../Components/ProductCard";
+import { useSearchParams } from "react-router-dom";
+import React from "react";
+import Navbar from "../Components/Navbar";
+import Register from "../Components/Register";
+import SignIn from "../Components/Signin";
+import CartsProductCard from "../Components/CartsProductsCard";
+import { CartContext } from "../Context/CartContextProvider";
 
-const getUrl=(url,filterBy)=>{
-  if(filterBy){
-    url=`${url}&section=${filterBy}`
+const getUrl = (url, filterBy) => {
+  if (filterBy) {
+    url = `${url}&section=${filterBy}`;
   }
 
-    return url
-}
-const Search = () => {
-  const [searchParams, setSearchParams]=useSearchParams()
-  const [data, setData]=useState([])
+  return url;
+};
+
+const Adress = () => {
+  const [searchParams, setSearchParams] = useSearchParams();
+  const [data, setData] = useState([]);
   const { isOpen, onToggle } = useDisclosure();
-const {state}=useContext(AuthContext)
-const {isAuth,name}=state
-const [filterBy,setFilterBy]=useState("") //(searchParams.get("section")|| "")
-const [text, setText]=useState(searchParams.get("q")||"")
-const [but1, setBut1]=useState(false)
+  const { state } = useContext(AuthContext);
+  const { isAuth, name } = state;
+  const [filterBy, setFilterBy] = useState(""); //(searchParams.get("section")|| "")
+  const [text, setText] = useState(searchParams.get("q") || "");
+  const [but1, setBut1]=useState(false)
 const [but2, setBut2]=useState(false)
 const [but3, setBut3]=useState(false)
 const [but4, setBut4]=useState(false)
 
-// console.log(query)
-  
-  useEffect(()=>{
-    let apiUrl=getUrl(
-      `http://localhost:8080/products?q=${text}`,
-      filterBy
-    )
-    fetch(apiUrl)
-        .then((res)=>{
-            // setTotalCount(Number(res.headers.get("X-Total-Count")))
-            return res.json()})
-        .then((res)=>{
-            setData(res)
-            
-        })
-  },[text, filterBy])
+  const { cart, total_item } = useContext(CartContext);
 
-  useEffect(()=>{
-    let paramsObj={}
-    if(text){
-      paramsObj.q=text
+  useEffect(() => {
+    let apiUrl = getUrl(`http://localhost:8080/products?q=${text}`, filterBy);
+    fetch(apiUrl)
+      .then((res) => {
+        // setTotalCount(Number(res.headers.get("X-Total-Count")))
+        return res.json();
+      })
+      .then((res) => {
+        setData(res);
+      });
+  }, [text, filterBy]);
+
+  useEffect(() => {
+    let paramsObj = {};
+    if (text) {
+      paramsObj.q = text;
     }
-    if(filterBy){
-      paramsObj.section=filterBy
+    if (filterBy) {
+      paramsObj.section = filterBy;
     }
-    setSearchParams(paramsObj)
-  },[text, filterBy])
+    setSearchParams(paramsObj);
+  }, [text, filterBy]);
 
   function handlebut1(){
     setBut1(true)
@@ -123,13 +129,10 @@ const [but4, setBut4]=useState(false)
 
   return (
     <>
-      
-      <div>
-            <div>
-          <Flex
+       <Flex
           bg={useColorModeValue("blackAlpha.400", "gray.800")}
           color={useColorModeValue("white", "white")}
-          minH={"260px"}
+          minH={"130px"}
           py={{ base: 2 }}
           px={{ base: 4 }}
           // borderBottom={1}
@@ -150,7 +153,7 @@ const [but4, setBut4]=useState(false)
             flex={{ base: 1 }}
             justify={{ base: "center", md: "start" }}
           >
-            <Box>
+            {/* <Box>
             <button style={{backgroundColor:"gray"}} class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling">=</button>
 
 <div style={{width:"300px"}} class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
@@ -257,7 +260,8 @@ const [but4, setBut4]=useState(false)
   </div>
 </div>    
 
-            </Box>
+            </Box> */}
+            <Box></Box>
             
 
             <RouterLink to={"/"}>
@@ -290,14 +294,14 @@ const [but4, setBut4]=useState(false)
             </RouterLink>
           </Flex> */}
 
-          <Flex position={"relative"} gap={"5"} marginRight={"200px"} fontFamily={"heading"}
+          {/* <Flex position={"relative"} gap={"5"} marginRight={"200px"} fontFamily={"heading"}
               color={useColorModeValue("gray.800", "white")} cursor={"pointer"}>
 
             <Text onClick={()=>setFilterBy("woman")}>WOMAN</Text>
             <Text onClick={()=>setFilterBy("man")}>MAN</Text>
             <Text onClick={()=>setFilterBy("kid")}>KIDS</Text>
-          </Flex>
-          <Flex
+          </Flex> */}
+          {/* <Flex
             marginTop={"130px"} 
             width={"70%"}
             position={"fixed"}
@@ -309,7 +313,7 @@ const [but4, setBut4]=useState(false)
 
 
             <Input  color={"black"} onChange={(e)=>setText(e.target.value)} placeholder='ENTER SERCH TERMS' borderRight={"none"} borderTop={"none"} borderLeft={"none"} borderBottom={"2px"}/>
-          </Flex>
+          </Flex> */}
           <Stack
             flex={{ base: 1, md: 0 }}
             //   justify={"flex-end"}
@@ -343,109 +347,104 @@ const [but4, setBut4]=useState(false)
             </RouterLink>
 
             {/* <RiLuggageCartFill/> */}
-            <RouterLink position={"relative"} to={"/cart"}>
+            {/* <RouterLink position={"relative"} to={"/cart"}>
               <Stack color={useColorModeValue("gray.800", "white")} width={"10"}>
 
               <FaCartPlus size={"md"}/>
               </Stack>
-            </RouterLink>
+            </RouterLink> */}
           </Stack>
           
         </Flex> 
-        
+      <div
+        style={{
+        //   display: "flex",
+          width: "80%",
+          marginTop: "30px",
+          marginLeft: "150px",
+        }}
+      >
+        {/* <div style={{marginLeft:"60px"}} >
+  
+        <SignIn/>
+        </div>
+        <div style={{marginLeft:"70px"}}>
+          <Register/>
+        </div> */}
+          <div
+            style={{ marginTop: "180px", background: "white", width: "100%",color:"black",border:"1px solid",textAlign:"left" }}
+          >
+            {/* <Flex fontWeight={600} gap={10}>
+        <Text>CART:{" "}{total_item}</Text>
+        <Text>FAVORITES</Text>
+      </Flex> */}
+            <div>
 
-
-
+            <Stack>
+              <Text fontSize={"lg"} fontWeight={"bold"} color={"black"}>
+                WHERE DO YOU WANT TO RECEIVE YOUR ORDER?
+              </Text>
+            </Stack>
             </div>
-          <div>
-            {/* <div style={{ height:"200px", width:"100%",
-            marginTop:"250px",
-          // top:"130px",
-          // left:"0",
-          // width:"100%",
-          // transition:"0.6s",
-          // zIndex:"100000",
-          background:"black",
-          // marginTop:"220px"
-           }}>
-          <Input onChange={(e)=>setText(e.target.value)} placeholder='ENTER SERCH TERMS' borderRight={"none"} borderTop={"none"} borderLeft={"none"} borderBottom={"2px"}
-          // position={"fixed"}
-          // top={"300px"}
-          // left={"100px"}
-          // width={"80%"}
-          // transition={"0.6s"}
-          // zIndex={"100000"}
-          backgroundColor={"white"}
-          marginTop={"5px"}
-          />
-          
-          </div> */}
+            <div style={{marginTop:"30px", marginBottom:"20px"}}>
+
+            <Flex fontSize={"15px"} gap={5} >
+                <Box display={"flex"} justifyContent={"center"} alignItems={"center"} height={"28"} border={"1px solid"} width={"28"} >
+                    <Box  textAlign={"center"}>
+
+                    <BsBoxSeam marginLeft={"10"} size={"20"}/>
+                    <Text >HOME</Text>
+                    </Box>
+                </Box>
+                <Box display={"flex"} justifyContent={"center"} alignItems={"center"} height={"28"} border={"1px solid"} width={"28"} >
+                    <Box textAlign={"center"}>
+
+                    <AiOutlineAppstoreAdd size={"20"}/>
+                        <Text>ZARA STORE</Text>
+                    </Box>
+                </Box>
+            </Flex>
+            </div>
+            <Text>ADRESS</Text>
+            <Box>
+            <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">Enable both scrolling & backdrop</button>
+
+<div style={{marginTop:"130px"}} class="offcanvas offcanvas-start" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions" aria-labelledby="offcanvasWithBothOptionsLabel">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel"></h5>
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    <p>Try scrolling the rest of the page to see this option in action.</p>
+  </div>
+</div>
+            </Box>
           </div>
-          
-        {/* <Collapse in={isOpen} animateOpacity>
-        <MobileNav />
-      </Collapse> */}
-      
-      </div>
-      {/* <h1>search page content</h1> */}
-      {/* <div style={{width:"100%", height:"100px", backgroundColor:"black", position:"fixed",top:"130px",zIndex:"100000",transition:"0.6s",}}>
-
-      </div> */}
-      {/* <div style={{width:"100%", height:"160px", backgroundColor:"black", position:"fixed",top:"260px",zIndex:"100000",transition:"0.6s",}}>
-
-      </div> */}
-      {/* <div style={{ height:"150px", width:"100%", position:"fixed",
-          top:"40px",
-          // left:"0",
-          width:"100%",
-          transition:"0.6s",
-          zIndex:"100000",
-          background:"white",
-          marginTop:"220px"
-           }}>
-          <Input onChange={(e)=>setText(e.target.value)} placeholder='ENTER SERCH TERMS' borderRight={"none"} borderTop={"none"} borderLeft={"none"} borderBottom={"2px"}
-          position={"fixed"}
-          top={"300px"}
-          left={"150px"}
-          width={"80%"}
-          transition={"0.6s"}
-          zIndex={"100000"}
-          backgroundColor={"white"}
-          marginTop={"20px"}
-          />
-          
-      </div> */}
-      <div style={{marginTop:"230px", position:"relative", height:"auto",}}>
-        
-
-        
-      <Grid  templateColumns='repeat(5, 1fr)' gap={6} position="relative">
-        {
-          data?.length>0 && data.map((item)=>{
-            return(
-
-              <GridItem key={item.id} >
-                  <ProductCard 
-                  id={item.id}
-                  category={item.category}
-                  image={item.img}
-                  title={item.title}
-                  price={item.price}
-                  myprice={item.myprice}
+        <Grid marginTop={"280px"} templateColumns="repeat(4, 300px)" gap={6}>
+          {cart.map((item) => {
+            return (
+              <>
+                <GridItem key={item.id}>
+                  <CartsProductCard
+                    id={item.id}
+                    category={item.category}
+                    image={item.img}
+                    title={item.title}
+                    price={item.price}
+                    myprice={item.myprice}
+                    amount={item.amount}
                   />
-              </GridItem>
-              )
-        })
-
-        }
-      </Grid>
+                </GridItem>
+              </>
+            );
+          })}
+        </Grid>
       </div>
-      <div style={{height:"auto"}}>
-
-      <Footer/>
+      <div style={{ marginTop: "-60vh" }}>
+        <Footer />
       </div>
     </>
-  )
-}
+  );
+};
 
-export default Search
+export default Adress;
