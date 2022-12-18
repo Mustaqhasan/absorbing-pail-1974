@@ -74,7 +74,7 @@ const [but4, setBut4]=useState(false)
 
 useEffect(()=>{
   let apiUrl=getUrl(
-    `http://localhost:8080/products?q=${text}`,
+    `https://zara-server-app.onrender.com/products?q=${text}`,
     filterBy
   )
   fetch(apiUrl)

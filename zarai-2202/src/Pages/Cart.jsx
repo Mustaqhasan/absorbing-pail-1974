@@ -21,23 +21,8 @@ import {
   Grid,
   GridItem,
 } from "@chakra-ui/react";
-import axios from "axios";
-// import { useEffect, useState } from "react";
-// import { FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
-// import { MdLocalShipping } from "react-icons/md";
-// import { useParams } from "react-router-dom";
-// import { Link as RouetLink } from "react-router-dom";
-
-import { FaCartPlus } from "react-icons/fa";
 import { Link as RouterLink } from "react-router-dom";
-// import { useContext } from "react";
-import Footer from "../Components/Footer";
-// import { NavbarSearch } from '../Components/Navbar'
-// import { Grid, GridItem } from "@chakra-ui/react";
 import { CartContext } from "../Context/CartContextProvider";
-
-
-// import { Flex } from '@chakra-ui/react';
 import React, { useContext, useEffect, useState } from 'react'
 import { AuthContext } from "../Context/AuthContextProvider";
 import CartsProductCard from "../Components/CartsProductsCard";
@@ -47,7 +32,6 @@ const Cart = () => {
   const { state } = useContext(AuthContext);
   
   const { isAuth, name } = state;
-  // const {total}=useContext(CartContext)
   const {cart,total_price,total_item}=useContext(CartContext)
   
   

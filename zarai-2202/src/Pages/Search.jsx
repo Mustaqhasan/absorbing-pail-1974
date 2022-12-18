@@ -2,36 +2,15 @@ import {
   Box,
   Flex,
   Text,
-  IconButton,
   Button,
   Stack,
-  Collapse,
-  Icon,
-  Link,
-  Popover,
-  PopoverTrigger,
-  PopoverContent,
   useColorModeValue,
   useBreakpointValue,
   useDisclosure,
-  Menu,
-  MenuButton,
-  MenuList,
-  MenuItem,
   Image,
   Input,
 } from "@chakra-ui/react";
-import {
-  HamburgerIcon,
-  CloseIcon,
-  ChevronDownIcon,
-  ChevronRightIcon,
-  AddIcon,
-  ExternalLinkIcon,
-  RepeatIcon,
-  EditIcon,
-} from "@chakra-ui/icons";
-import { FaCartPlus } from "react-icons/fa";
+import { BsCart } from "react-icons/bs";
 import { Link as RouterLink } from "react-router-dom";
 import { useContext } from "react";
 import { AuthContext } from "../Context/AuthContextProvider";
@@ -40,12 +19,11 @@ import { AuthContext } from "../Context/AuthContextProvider";
 // import { Input } from '@chakra-ui/react'
 // import React from 'react'
 import Footer from '../Components/Footer'
-// import { NavbarSearch } from '../Components/Navbar'
 import { Grid, GridItem } from '@chakra-ui/react'
 import {useState, useEffect} from "react"
-import axios from "axios";
 import ProductCard from '../Components/ProductCard'
 import {useSearchParams} from "react-router-dom";
+import { CartContext } from "../Context/CartContextProvider";
 
 const getUrl=(url,filterBy)=>{
   if(filterBy){
@@ -57,7 +35,7 @@ const getUrl=(url,filterBy)=>{
 const Search = () => {
   const [searchParams, setSearchParams]=useSearchParams()
   const [data, setData]=useState([])
-  const { isOpen, onToggle } = useDisclosure();
+  const {total_item}=useContext(CartContext)
 const {state}=useContext(AuthContext)
 const {isAuth,name}=state
 const [filterBy,setFilterBy]=useState("") //(searchParams.get("section")|| "")
@@ -71,7 +49,7 @@ const [but4, setBut4]=useState(false)
   
   useEffect(()=>{
     let apiUrl=getUrl(
-      `http://localhost:8080/products?q=${text}`,
+      `https://zara-server-app.onrender.com/products?q=${text}`,
       filterBy
     )
     fetch(apiUrl)
@@ -343,12 +321,22 @@ const [but4, setBut4]=useState(false)
             </RouterLink>
 
             {/* <RiLuggageCartFill/> */}
-            <RouterLink position={"relative"} to={"/cart"}>
+            {/* <RouterLink position={"relative"} to={"/cart"}>
               <Stack color={useColorModeValue("gray.800", "white")} width={"10"}>
 
               <FaCartPlus size={"md"}/>
               </Stack>
-            </RouterLink>
+            </RouterLink> */}
+            <RouterLink  to={"/cart"}>
+            
+            <Flex  color={useColorModeValue("gray.800", "white")} width={"10"}>
+              
+                  <BsCart size={"40px"}>
+                  </BsCart>
+              <Text marginTop={"1"} marginLeft={"-7"} color={"black"} fontSize={"lg"} fontWeight={"bold"} >{total_item}</Text>
+                    {/* <span backgroundColor={"green"}>{total_item}</span> */}
+            </Flex>
+          </RouterLink>
           </Stack>
           
         </Flex> 

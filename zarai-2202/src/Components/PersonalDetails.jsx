@@ -57,7 +57,7 @@ const {isAuth,name}=state
     const [data, setData]=useState({})
 
     useEffect(()=>{
-      axios.get(`http://localhost:8080/states`)
+      axios.get(`https://zara-server-app.onrender.com/states`)
       .then((res)=>{
         console.log(res.data)
         setCountry(res.data)
@@ -68,7 +68,8 @@ const {isAuth,name}=state
     const inputHandler=(e)=>{
       e.preventDefault()
       const {placeholder,value}=e.target;
-      setData({...data, [placeholder]:value})
+      const name= e.target.type==="select" ? placeholder : "State"
+      setData({...data, [name]:value})
     };
     let dataArr;
     dataArr=JSON.parse(localStorage.getItem("users")) || []
@@ -384,6 +385,8 @@ const {isAuth,name}=state
                   <br />
                   <Input type="text" placeholder='locality' onChange={inputHandler} />
                   <br />
+                  <Input type="number" placeholder='phone' onChange={inputHandler} />
+                  <br />
                   <Select placeholder='state' onChange={inputHandler}>
                     {
                       country.map((item)=>(
@@ -407,7 +410,7 @@ const {isAuth,name}=state
                 <Input width={"96"} placeholder='REPEAT PASSWORD' type="password" />
               </FormControl>
               <FormControl id="pincode">
-                <Input placeholder='PINCODE' type="number" />
+                <Input placeholder='pincode' onChange={inputHandler} type="number" />
               </FormControl>
               <FormControl id="more">
                 <FormLabel>MORE INFO</FormLabel>

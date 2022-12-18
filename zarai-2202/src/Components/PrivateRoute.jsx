@@ -1,13 +1,13 @@
 import React, { useContext } from 'react'
-import { NavLink } from 'react-router-dom'
+import { Navigate, NavLink } from 'react-router-dom'
 import { AuthContext } from '../Context/AuthContextProvider'
 
 const PrivateRoute = ({children}) => {
     const {state}=useContext(AuthContext)
     const {isAuth}=state
 
-    if(!isAuth){
-        return <NavLink to={"/login"}/>
+    if(isAuth==false){
+        return <Navigate to={"/login"}/>
     }
   return (children
   )

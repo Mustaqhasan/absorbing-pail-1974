@@ -7,6 +7,8 @@ import Home from '../Pages/Home'
 import Login from '../Pages/Login'
 import Payment from '../Pages/Payment'
 import Search from '../Pages/Search'
+import Summary from '../Pages/Summary'
+import NewPersonalDetails from './NewPersonalDetails'
 import PersonalDetails from './PersonalDetails'
 import PrivateRoute from './PrivateRoute'
 import ProductDetails from './ProductDetails'
@@ -25,7 +27,14 @@ const AllRoutes = () => {
         {/* <Route path='/cart/:id' element={<Cart/>}/> */}
         <Route path='/signup' element={<PersonalDetails/>}/>
         <Route path='/products/:id' element={<ProductDetails/>}/>
-        <Route path='/adress' element={<Adress/>}/>
+        <Route path='/newaddress' element={<NewPersonalDetails/>}/>
+        <Route path='/summary' element={<Summary/>}/>
+        <Route path='/adress' element={
+          <PrivateRoute>
+          <Adress/>
+          </PrivateRoute>
+
+          }/>
         <Route path='/payment' element={<Payment/>}/>
       </Routes>
     </div>

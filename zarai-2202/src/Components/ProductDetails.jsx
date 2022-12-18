@@ -38,7 +38,6 @@ import Footer from "../Components/Footer";
 import { Grid, GridItem } from "@chakra-ui/react";
 import ProductCard from "../Components/ProductCard";
 import { CartContext } from "../Context/CartContextProvider";
-import MyImage from "./MyImage";
 
 
 export default function ProductDetails() {
@@ -55,7 +54,7 @@ export default function ProductDetails() {
   const {total_item}=useContext(CartContext)
   // const [mainImage, setMainImage] = useState(imgs[0]);
   useEffect(() => {
-    axios.get(`http://localhost:8080/products/${id}`).then(({ data }) => {
+    axios.get(`https://zara-server-app.onrender.com/products/${id}`).then(({ data }) => {
       setProduct(data);
       // console.log(data);
     });
@@ -105,7 +104,7 @@ export default function ProductDetails() {
       <Flex
         bg={useColorModeValue("blackAlpha.400", "gray.800")}
         color={useColorModeValue("white", "white")}
-        minH={"150px"}
+        minH={"120px"}
         // minH={"auto"}
         py={{ base: 2 }}
         px={{ base: 4 }}
@@ -271,7 +270,8 @@ export default function ProductDetails() {
                 width={"170px"}
                 // src="https://payload177.cargocollective.com/1/7/226816/5848049/prt_310x400_1368705984_o.jpg"
                 // src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9b991924668429.56338097af083.jpg"
-                src="https://c8.alamy.com/comp/2J055AP/spain-11th-mar-2022-in-this-photo-illustration-a-zara-logo-seen-displayed-on-a-smartphone-with-a-zara-logo-in-the-background-photo-by-thiago-prudenciosopa-imagessipa-usa-credit-sipa-usaalamy-live-news-2J055AP.jpg"
+                // src="https://c8.alamy.com/comp/2J055AP/spain-11th-mar-2022-in-this-photo-illustration-a-zara-logo-seen-displayed-on-a-smartphone-with-a-zara-logo-in-the-background-photo-by-thiago-prudenciosopa-imagessipa-usa-credit-sipa-usaalamy-live-news-2J055AP.jpg"
+                src='https://www.freepnglogos.com/uploads/zara-brand/clothing-brand-zara-hd-zara-logo-2020-3.jpg'
               />
             </Box>
           </RouterLink>
@@ -313,14 +313,7 @@ export default function ProductDetails() {
           <RouterLink  to={"/cart"}>
             
             <Flex  color={useColorModeValue("gray.800", "white")} width={"10"}>
-              {/* <RiShoppingCartLine width={"40px"} height={"30px"}/> */}
-                  
-
-                 
-                 
-
-              {/* <FaCartPlus size={"30px"} /> */}
-              {/* <BsCart  top={"20px"} size={"30px"} /> */}
+              
                   <BsCart size={"40px"}>
                   </BsCart>
               <Text marginTop={"1"} marginLeft={"-7"} color={"black"} fontSize={"lg"} fontWeight={"bold"} >{total_item}</Text>
@@ -475,10 +468,6 @@ export default function ProductDetails() {
                   bg={useColorModeValue("gray.900", "gray.50")}
                   color={useColorModeValue("white", "gray.900")}
                   textTransform={"uppercase"}
-                  // _hover={{
-                  //   transform: "translateY(2px)",
-                  //   boxShadow: "lg",
-                  // }}
                 >
                   ADD TO BAG
                 </Button>

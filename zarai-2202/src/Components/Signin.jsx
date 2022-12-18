@@ -17,6 +17,7 @@ import { AuthContext } from '../Context/AuthContextProvider';
     const [currData, setCurrData]=useState({})
     
     // const [auth, setAuth]=useState(false)
+    
 
     const usersArr=JSON.parse(localStorage.getItem("users"))
    
@@ -30,15 +31,21 @@ import { AuthContext } from '../Context/AuthContextProvider';
         e.preventDefault();
         let ans=false;
         let name;
+        let adress;
+        let locality;
+        let phone;
         usersArr.map((user)=>{
             if(currData.email===user.email && currData.password===user.password){
               ans=true;
               name=user.name
+              adress=user.address
+              locality=user.locality
+              phone=user.phone
               return;
             }
         })
         if(ans){
-          toggleAuth(true, name)
+          toggleAuth(true, name,adress,locality,phone)
         }else{
           toggleAuth(false, null)
           alert("Failed")
@@ -54,7 +61,7 @@ import { AuthContext } from '../Context/AuthContextProvider';
       }
       
       if(isAuth){
-        return <Navigate to={"/"}/>
+        return <Navigate to={"/adress"}/>
       }
     return (
       <Flex

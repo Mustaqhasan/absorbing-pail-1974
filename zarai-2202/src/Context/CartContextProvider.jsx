@@ -14,7 +14,6 @@ const initState={
 export const CartContext=createContext()
 const CartContextProvider = ({children}) => {
     const [state, dispatch]=useReducer(reducer, initState)
-    
 
     const setIncrease=(id)=>{
       dispatch({type:"SET_INCREMENT", payload:id})
@@ -22,9 +21,7 @@ const CartContextProvider = ({children}) => {
     const setDecrease=(id)=>{
       dispatch({type:"SET_DECREMENT", payload:id})
     }
-    // const findTotal=(id,qua,myprice,productData)=>{
-    //     dispatch({type:"ADD_TOTAL", payload:{id,qua,myprice,productData}})
-    // }
+    
 
     const removeItem=(id)=>{
       dispatch({type:"REMOVE_ITEM",payload:id})

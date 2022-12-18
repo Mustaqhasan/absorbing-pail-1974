@@ -1,5 +1,4 @@
-import React from 'react'
-import { act } from 'react-dom/test-utils';
+
 
 const CartReducer = (state,action) => {
     
@@ -12,12 +11,16 @@ const CartReducer = (state,action) => {
 
         if(existingData){
             let updatedProduct=state.cart.map((curElem)=>{
-                if(curElem.id==id+myprice){
-                    let newPrice=curElem.myprice+myprice;
+                if(curElem.id===id+myprice){
+                    let newAmount=curElem.amount+amount;
+
+                    if(newAmount >= amount){
+                        newAmount=amount
+                    }
                     return{
                         ...curElem,
-                        myprice:newPrice,
-                        amount:amount
+                        // myprice:newPrice,
+                        amount:newAmount
                     }
                 }else{
                     return curElem;
@@ -74,8 +77,8 @@ const CartReducer = (state,action) => {
         let updatedData=state.cart.map((item)=>{
             if(item.id===action.payload){
                 let incAmount=item.amount+1
-                if(incAmount > 10){
-                    incAmount=10 
+                if(incAmount >8){
+                    incAmount=8
                 }
                 return {
                     ...item,
@@ -88,7 +91,7 @@ const CartReducer = (state,action) => {
         return {...state,cart:updatedData}
     }
 
-    if(action.type=="CART_TOTAL_ITEM"){
+    if(action.type==="CART_TOTAL_ITEM"){
         let updatedTotal=state.cart.reduce((ininVal, item)=>{
             let {amount}=item;
             ininVal=ininVal+amount
@@ -102,7 +105,7 @@ const CartReducer = (state,action) => {
         }
     }
 
-    if(action.type=="CART_TOTAL_PRICE"){
+    if(action.type==="CART_TOTAL_PRICE"){
         let totalPrice=state.cart.reduce((initVal, item)=>{
             let {myprice, amount}=item;
 

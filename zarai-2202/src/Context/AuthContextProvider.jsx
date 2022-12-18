@@ -5,13 +5,19 @@ export const AuthContext=createContext()
 const AuthContextProvider = ({children}) => {
     const [state, setState]=useState({
         isAuth:false,
-        name:null
+        name:null,
+        adress:null,
+        locality:null,
+        phone:null
     })
-    const toggleAuth=(auth, name)=>{
+    const toggleAuth=(auth, name,adress,locality,phone)=>{
         setState({
             ...state,
             isAuth:auth,
-            name:name
+            name:name,
+            adress:adress,
+            locality:locality,
+            phone:phone
         })
     }
   return (

@@ -31,17 +31,19 @@ import {
   RepeatIcon,
   EditIcon,
 } from "@chakra-ui/icons";
-import { FaCartPlus } from "react-icons/fa";
+import { BsCart } from "react-icons/bs";
 import { Link as RouterLink } from "react-router-dom";
 import { useContext } from "react";
 import { AuthContext } from "../Context/AuthContextProvider";
 import {useState} from "react"
+import { CartContext } from "../Context/CartContextProvider";
 // import styles from "./../Styles/Navbar"
 
 export default function Navbar() {
   const { isOpen, onToggle } = useDisclosure();
   const {state}=useContext(AuthContext)
   const {isAuth,name}=state;
+  const {total_item}=useContext(CartContext)
   const [but1, setBut1]=useState(false)
 const [but2, setBut2]=useState(false)
 const [but3, setBut3]=useState(false)
@@ -289,12 +291,16 @@ const [but4, setBut4]=useState(false)
             </RouterLink>
 
             {/* <RiLuggageCartFill/> */}
-            <RouterLink position={"relative"} to={"/cart"}>
-            <Stack color={useColorModeValue("gray.800", "white")} width={"10"}>
-
-              <FaCartPlus size={"md"}/>
-              </Stack>
-            </RouterLink>
+            <RouterLink  to={"/cart"}>
+            
+            <Flex  color={useColorModeValue("gray.800", "white")} width={"10"}>
+              
+                  <BsCart size={"40px"}>
+                  </BsCart>
+              <Text marginTop={"1"} marginLeft={"-7"} color={"black"} fontSize={"lg"} fontWeight={"bold"} >{total_item}</Text>
+                    {/* <span backgroundColor={"green"}>{total_item}</span> */}
+            </Flex>
+          </RouterLink>
           </Stack>
         </Flex>
 
