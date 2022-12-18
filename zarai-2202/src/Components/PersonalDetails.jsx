@@ -68,8 +68,8 @@ const {isAuth,name}=state
     const inputHandler=(e)=>{
       e.preventDefault()
       const {placeholder,value}=e.target;
-      const name= e.target.type==="select" ? placeholder : "State"
-      setData({...data, [name]:value})
+      // const name= e.target.type==="select" ? placeholder : "State"
+      setData({...data, [placeholder]:value})
     };
     let dataArr;
     dataArr=JSON.parse(localStorage.getItem("users")) || []
@@ -395,13 +395,10 @@ const {isAuth,name}=state
                     }
                   </Select>
 
-                    
+
                   <Input 
                   bg={'black'}
-                  color={'white'}
-                  _hover={{
-                    bg: 'gray',
-                  }} type={"submit"} value={"CREATE ACCOUNT"}/>
+                  color={'white'} type={"submit"} value={"CREATE ACCOUNT"}/>
               </form>
               </Stack>
               <Stack>
@@ -410,7 +407,7 @@ const {isAuth,name}=state
                 <Input width={"96"} placeholder='REPEAT PASSWORD' type="password" />
               </FormControl>
               <FormControl id="pincode">
-                <Input placeholder='pincode' onChange={inputHandler} type="number" />
+                <Input type="number" />
               </FormControl>
               <FormControl id="more">
                 <FormLabel>MORE INFO</FormLabel>
