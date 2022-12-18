@@ -62,9 +62,7 @@ export default function Register() {
                     bg={"black"}
                     color={"white"}
                     textAlign={"left"}
-                    _hover={{
-                      bg: "gray",
-                    }}
+                    
                   >
                     CREATE ACCOUNT
                   </Button>

@@ -395,10 +395,12 @@ const {isAuth,name}=state
                     }
                   </Select>
 
+                    {/* <RouterLink to={"/login"}> */}
 
                   <Input 
                   bg={'black'}
                   color={'white'} type={"submit"} value={"CREATE ACCOUNT"}/>
+                  {/* </RouterLink> */}
               </form>
               </Stack>
               <Stack>
@@ -407,7 +409,7 @@ const {isAuth,name}=state
                 <Input width={"96"} placeholder='REPEAT PASSWORD' type="password" />
               </FormControl>
               <FormControl id="pincode">
-                <Input type="number" />
+                <Input placeholder='pincode' type="number" />
               </FormControl>
               <FormControl id="more">
                 <FormLabel>MORE INFO</FormLabel>

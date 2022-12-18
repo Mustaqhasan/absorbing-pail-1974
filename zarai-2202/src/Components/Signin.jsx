@@ -60,9 +60,9 @@ import { AuthContext } from '../Context/AuthContextProvider';
 
       }
       
-      // if(isAuth){
-      //   return <Navigate to={"/adress"}/>
-      // }
+      if(isAuth){
+        return <Navigate to={"/"}/>
+      }
     return (
       <Flex
         minH={'100vh'}

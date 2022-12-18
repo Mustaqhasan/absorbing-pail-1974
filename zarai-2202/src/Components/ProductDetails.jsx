@@ -495,7 +495,7 @@ export default function ProductDetails() {
           })}
         </div>
         <div>
-          <img width={"300px"} src={img} alt="" />
+          <img width={"300px"} src={mainPage.url} alt="" />
         </div>
     </div>
   
